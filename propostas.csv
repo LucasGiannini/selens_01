@@ -1,0 +1,1504 @@
+﻿Número;Data;Empresa;OP;Destinatário;Título
+1;-999999999-01-01;;;;Cancelada
+2;1997-01-03;IBM;;Mati Higuchi;Serviços para TELEPAR - 0041/EDP-96
+3;1997-01-03;IBM;;Mati Higuchi;SW de View/Redline para TELEPAR - 0041/E
+4;1997-01-03;Equitel;;Ralph P. Bernhardt;Serviços para TELEPAR - 0041/EDP-96
+5;1997-01-03;Equitel;;Ralph P. Bernhardt;SW de View/Redline para TELEPAR - 0041/E
+6;1997-04-14;IBM;;Cristina Mizumori;Serviço de Hot-line para TELEPAR - 0041/
+7;1997-01-06;IBM;;Leandro Fonseca;Serviços Treinamento - Novasoft - PROCEM
+8;1997-01-06;IBM;;Leandro Fonseca;SW de View/Redline/Compressores PROCEMPA
+9;1997-01-06;IBM;;Leandro Fonseca;Serviços Implantação - PROCEMPA - 008/97
+10;1997-04-15;IBM;;Eliana Colin P. Almeida;Serviços Hot-line - PROCEMPA - 008/97
+11;1997-08-23;IBM;;Leandro Fonseca;SW de View/Redline PETROBRAS / ABAST- 20
+12;1997-08-23;IBM;;Leandro Fonseca;Serviços Implantação - PETROBRAS / ABAST
+13;1997-08-23;IBM;;Eliana Colin P. Almeida;Serviços Hot-line - PETROBRAS / ABAST- 2
+14;1997-08-23;IBM;;Leandro Fonseca;Serviços Treinamento - PETROBRAS / ABAST
+15;1998-08-17;RLAM;;Roberto Gomes;Software e Serviços de Implantação - Doc
+16;1997-06-23;REPLAN;;Roy Nelson;SW de View/Redline/Edit - Spicer
+17;1997-05-07;RLAM;;Edvaldo Marques;Serviços Adicionais para o SEGED
+18;1997-04-08;IBM;;Mati Higuchi;Serviços Telesuporte - MWM
+19;2002-05-06;NCR;;Daniela;SW de View/Markup/Edit - Spicer
+20;1997-04-08;COSIPA;;Luis Alberto;SW de View/Markup/Edit - Spicer
+21;1997-08-16;REVAP;;Sonia Tuam;SW de View/Redline/Edit - Spicer
+22;1997-07-16;Integris;;Fabio Domingues;Serviços Implantação - TELEPAR
+23;1997-12-09;REPLAN;;Conceição Vieira;Software e Serviços - Novasoft
+24;1997-03-10;Integris;;Marcio Tengan;Software e Serviços - Novasoft
+25;1997-10-10;REPLAN;;Roy Nelson;SW de View/Redline
+26;1997-10-11;IBM;;Cristina Mizumori;PROCEMPA - 008/97 - Global - Serviços  S
+27;1997-12-17;COPENE;;Elizete Sá;Treinamento Imagenation
+28;1997-10-30;SIEMENS;;Cláudio Panssonato;Customizações Adicionais do Sistema
+29;1997-11-20;COSIPA;;Luis ALberto;Licença de Uso - Imagenation
+30;1997-04-12;Siemens;;Luis Barabba;Manutenção de Software
+31;1997-04-12;COSIPA;;Luis ALberto;Manutenção de Software
+32;1997-12-17;Siemens;;Luis Barabba;Manutenção de Software
+33;2002-05-06;Integris;;Fabio Domingues;Serviços Implantação - TELEPAR
+34;1998-01-15;Xerox;;Carla Ferraz;Software Imagenation
+35;2009-01-16;Xerox;;Carla Ferraz;Software Myriad
+36;1998-02-20;Bosch;;Airton;Treinamento Imagenation
+37;1998-12-04;RLAM;;Edvaldo Marques;Aditivo de Contrato - Expansão e Qualida
+38;1998-03-30;RLAM;;Edvaldo Marques;Serviço de Customização
+39;1998-04-25;COSIPA;;Luis Savazzi;SW de View/Redline - Spicer
+40;1998-12-06;REPLAN;;Roy Nelson;SW de View/Redline - Spicer e Manutenção
+41;1998-05-30;COFAP;;Emília;SW e Serviços NovaSoft
+42;2002-05-06;IBM;;Ricardo Almeida;SW de View/Redline - Spicer e Manutenção
+43;1998-02-07;REPLAN;;Roy Nelson;Upgrade de Software Imagination
+44;1998-07-17;IBM;;Ricardo Almeida;SW de View/Redline - Spicer e Manutenção
+45;1998-09-30;COPENE;;Elizete Sá;SW e Serviços NovaSoft
+46;1998-10-15;COPENE;;Elizete Sá;SW e Serviços NovaSoft
+47;1998-10-15;COPENE;;Elizete Sá;SW e Serviços NovaSoft
+48;1998-10-30;EMBRAER;;Tony Reis;Software e Serviços NovaSoft
+49;1998-11-15;COPENE;;Elizete Sá;Serviços NovaSoft
+50;1999-04-15;Integris;;Roberto Barreto;Serviços Telepar
+51;1998-10-12;COPENE;;Elizete Sá;SW NovaSoft
+52;1998-12-12;SIEMENS Telecom;;Gilson Lima/Kerber;Embratel Call Center - Software Novasoft
+53;1998-12-12;CPFL;;Ronaldo Franco;SW e Serviços NovaSoft
+54;1998-10-12;RLAM;;Edvaldo Marques;Software e Serviços de Implantação - Nor
+55;1999-07-01;METRÔ;;Geuis;Softwares e Serviços de Implantação
+56;2000-04-01;REPAR;;Conceição Vieira;Softwares e Serviços de Implantação
+57;1999-02-28;EMBRAER;;Fabio Miranda / Tony Reis;Software e Serviços NovaSoft
+58;1999-02-15;Siemens;;Luis Barabba;Manutenção de Software
+59;1999-02-15;Siemens TUSA;;Reinaldo;Software NovaSoft
+60;1999-10-04;COSIPA;;Luis Alberto;Manutenção de Software e Serviços
+61;1999-06-18;COFAP;;Emília;Serviços NovaSoft - Suporte nas Dependên
+62;1999-06-18;COFAP;;Emília;Serviços NovaSoft - Automatização da CE
+63;1999-06-18;COFAP;;Emília;Serviços NovaSoft - Melhorias do SCS
+64;1999-06-18;COFAP;;Emília;Serviços NovaSoft - Automação p/ Control
+65;1999-05-29;RLAM;;Conceição Vieira;Aditivo de Contrato - Expansão e Qualida
+66;1999-08-10;CEN-NOR;;Conceição Vieira;Aplicação CEN-NOR
+67;1999-10-13;DISUS;;Flávio Baruzzi;Aplicação DENGE
+68;1999-08-29;CG / BCP;;Fabio Leopoldo;Software e Serviços NovaSoft
+69;1999-04-11;REPLAN;;Cyro Costa Jr.;Software e Serviços NovaSoft
+70;1999-04-11;REVAP;;Sonia Tuam;Software e Serviços NovaSoft
+71;1999-02-09;CEN-SUD;;Conceição Vieira;Proposta de treinamento
+72;1999-08-12;COPENE;;Elizete Sá;Serviços NovaSoft
+73;1999-09-10;INTEGRIS;;Marcelo Valeri;Software e Serviços de Implantação - TEL
+74;1999-09-10;SEFAZ;;Wanderley;Software  Serviços de Implantação e Cons
+75;1999-11-20;COSIPA;;Luis Alberto;Software e Serviços de Implantação
+76;1999-03-12;Petrobras;;Conceição Vieira;Software e Serviços - Bahia - Dossie do 
+77;1999-10-29;SCHULER;;IVO OTT;Software  Serviços e Treinamento
+78;1999-01-11;ULTRAFERTIL;;Hilda Otero;Software  Serviços e Treinamento
+79;1999-11-18;P  G;;Luis Carlos;Software  Serviços e Treinamento
+80;1999-08-12;COPENE;;Elizete Sá;Serviços NovaSoft
+81;1999-12-12;GERAB;;Célia Santos;Software NovaSoft
+82;1999-12-22;GERAB;;Célia Santos;Software Oracle + Manutenção ( Proposta 
+83;1999-12-23;COFAP;;Emilia;Serviços - Configuração do NovaManage na
+84;1999-12-29;COFAP;;Emilia Piagentini;Software NAS e Serviços de customização
+85;1999-07-12;Carbocloro;;Rogério Catarinacho;Software  Serviços e Treinamento
+86;1999-07-12;Cosipa;;Fernando Aló;Software Imagenation VR
+87;1999-10-12;Consultor;;Gloriberto Marella;Software  Serviços e Treinamento
+88;2000-02-03;Astra S/A;;Fabio  Calheiros;Software  Serviços e Treinamento
+89;2000-04-02;DBK / Schneider;;Fabio Costa;Software  Serviços e Treinamento
+90;2000-10-03;SEGEN/Avanti;;Carlos;Software NovaSoft
+91;2000-10-02;Senior Flexonics;;Antonio Mitsuo;Software  Serviços e Treinamento
+92;2000-03-28;Oxiteno S/A;;Raquel Guilherme;Software  Serviços e Treinamento
+93;2000-03-28;Perdigão S/A;;Luis Roberto;Software  Serviços e Treinamento
+94;2000-03-28;Marinha;;;Software e Serviços
+95;2000-11-27;Copel;;Ledo/Ricardo Nogueira;Software e Serviços
+96;2000-04-22;Seara Alimentos;;Mariane;Software  Serviços e Treinamento
+97;2000-04-29;COSIPA;;Luis ALberto;Serviços
+98;2000-04-30;Petrobras;;Glauber;Software e Serviços
+99;2000-05-04;Itaipú;;Rosemary Rigo;Software  Serviços e Treinamento
+100;2000-05-18;CCE;;Célio Eduardo;Software  Serviços e Treinamento
+101;2000-06-11;INTEGRIS/TELES;;;Software  Serviços e Treinamento
+102;2000-06-12;REPAR;;João Gavlak;Serviços
+103;2000-06-12;COFAP;;Mauro da Conceição;Software ( Imagenation ) e Treinamento
+104;2000-10-08;Petrobras/Proj.Sinergia;;Antonio Carlos;Software  Serviços e Treinamento
+105;2000-06-30;Petrobras/GERAB;;Glauber;Software  Serviços e Treinamento
+106;2000-07-01;CIMPOR;;Eduardo Ferreira;Consultoria - Ante Projeto
+107;2000-06-14;Perobras/Disus;;Andrea;Software
+108;2000-07-20;CIMPOR;;Eduardo Ferreira;Software  Serviços e Treinamento
+109;2000-07-27;Petrobras/Cen-Nor;;Conceição Vieira;Software  Serviços e Treinamento
+110;2000-12-21;Petrobras REDUC;;Jorge Simões;Software  Serviços e Treinamento
+111;2000-08-19;LISTEL;;Eidy Cavalheiro;Software  Serviços e Treinamento
+112;2000-08-21;COPENE;;Elizete Sá;Serviços NovaSoft
+113;2000-08-21;COSIPA;;Luis Alberto;Serviços e Treinamento
+114;2000-08-24;GETRONICS;;João Eliezer;Software  Serviços e Treinamento
+115;2000-01-09;SCHULER;;Ivo Ott / Andre;Software  Serviços e Treinamento
+116;2000-03-08;METRO;;Edson Eizi Watanabe;Software  Serviços e Treinamento
+117;2000-08-21;COPENE;;Elizete Sá;Serviços NovaSoft
+118;2000-09-25;Petrobras/REPAR;;Conceição Vieira;Software e Serviços
+119;2000-11-23;Oxiteno S/A;;Roberto Leme;Software e Serviços
+120;2000-11-20;Eletropaulo Metropolitana;;Alfredo Ramos;Software  Serviços e Treinamento
+121;2000-11-20;Copene;;Elizete Sá;Serviços
+122;2000-11-20;Petrobras/SERMAT;;Luiz Gonzaga;Software e Serviços
+123;2000-11-21;Petrobras/REPLAN;;David;Software
+124;2000-12-13;COPEL;;Tania;Serviços de Consultoria
+125;2000-12-13;ICA;;;Software e Serviços
+126;2000-12-14;Copene;;Elizete Sá;Serviços
+127;2000-12-14;Copene;;Elizete Sá;Serviços
+128;2000-12-16;Petrobras / DISUS;;Omar;Serviços e Manutenção de Software
+129;2000-11-20;Wyeth;;Suzana;Software e Serviços NovaSoft
+130;2000-04-12;Petrobras - REGAP;;Noronha;Software e Serviços
+131;2000-12-22;Petrobras -REPAR;;Gavlak;Melhorias GED JUR
+132;2000-02-20;White Martins;;Jan Freunde;Software e Serviços
+133;2000-12-29;COPENE;;Elizete Sá;Software
+134;2000-01-21;Petrobras;;Gonzaga;Software
+135;2000-01-21;Petrobras;;Gonzaga;Software
+136;-999999999-01-01;;;;Cancelada
+137;2001-01-19;Petrobras - REGAP;;Noronha;Serviços
+138;2001-05-03;Petrobras - Sinergia;;Veloso;Software e Serviços
+139;2002-05-06;Cosipa;;Fernando Aló;Software Imagenation View
+140;2001-09-04;Petrobras - Sinergia;;Veloso;Manual Técnico
+141;2001-05-25;COFAP;;Emilia Piagentini;Serviços e Treinamento
+142;2001-10-19;Petrobras - RLAM;;Conceição Vieira;Manutenção e Serviços
+143;2001-07-15;COFAP;;Claudio Martins;Software
+144;2001-10-06;GEVISA;;Luiz Antonio S.Leite;Software e Serviços
+145;2001-06-07;IERG;;Noronha;Software e Serviços
+146;2001-07-06;Confab Industrial;;Sergio P. Filho;Software e Serviços NovaSoft
+147;2001-06-15;COPENE;;Elizete Sá;Serviços - Contas a Pagar
+148;2001-05-30;Mercedes Benz;;Fad/ Sadao;Software e Serviços
+149;2001-06-15;COPENE;;Elizete Sá;Software - Contas a Pagar
+150;2001-06-30;REPAR;;Conceição Vieira;Manutenção e Serviços
+151;2001-08-30;PRENSAS SCHULER;;Ivo Ott / André G. de Medeiros;Software e Serviços
+152;2001-07-08;Transpetro;;Roseli Luccas/Conceição;Software e Serviços
+153;2001-08-31;CCBR / Correios;;Ubirajara / João Paulo;Software e Serviços
+154;2001-12-20;Petrobras/DENGE;;Washington;Serviços de Operação e Consultoria
+155;2002-05-06;Replan;;Antonio Carlos de Souza;Treinamento em Imagenation 2 dias
+156;2002-05-06;Cosipa;;Jose Miquel Destro;Treinamento NS
+157;2002-05-06;Revap;;Elisa B. Silva;Pedido de SW
+158;2002-05-06;Repar;;Claudia Marcia Cooper;Serviço de Manutenção de SW
+159;2002-05-06;Textron Automotive;;José Carlos E. Lopes;Software  Serviços e Treinamento
+160;2002-05-06;Copel;;Sergio Akira;Software  Serviços e Treinamento
+161;2001-11-21;White Martins;;Jorge Rodrigues;Software  Serviços e Treinamento
+162;2001-11-14;REPLAN;;Antonio Carlos;Serviço de Manutenção de SW
+163;2001-12-13;INPE;;Concorrência;Software  Serviços e Treinamento
+164;2002-05-06;Petrobras/Revap;;Elisa B. Silva;Manutenção e Serviços
+165;2001-12-26;Copel;;Ledo / Akira;Manutenção
+166;2002-05-06;TELEMAR;;Rinaldo Moreira;Software  Serviços e Treinamento
+167;2001-05-12;Petrobras/RSPS-RH;;Glauber;Software e Serviços
+168;2002-05-03;Petrobras / RSPS;;Almerinda;Serviços de Migração de Mídia
+169;2002-04-01;LISTEL;;Walter Martins;Software  Serviços e Treinamento
+170;2002-05-06;Copel;;Ledo / Akira;Serviços
+171;2002-05-06;Petrobras REDUC;;Edmundo;Software
+172;2001-12-18;REPLAN;;Antonio Carlos;Software  Serviços e Treinamento
+173;2002-05-06;Automat;;Carlos Eduardo Kaiut;Software  Serviços e Treinamento
+174;2002-05-06;Petrobras EP;;Roseli Lucas;Software  Serviços e Treinamento
+175;2002-05-06;VisaNet;;Marcelino Feitosa;Serviços - MyNovation
+176;2001-12-26;Copene;;Elizete Sá;Software  Serviços
+177;2002-05-06;Itaipu;;Eliandro;Venda de Jrun da Officer
+178;2002-05-06;Sachs;;Marcio;Software  Serviços e Treinamento
+179;2002-05-06;Monsanto;;;Consultoria em Processos
+180;2002-05-06;Cummins;;Joseani;Software Imagination
+181;2002-05-06;Reduc;;Jorge Simoes e Marcus Vinicius;Software ViewCafe e Jrun
+182;2002-05-06;Reduc;;Jorge Simões;Manutenção NovaSoft e Serviços
+183;2002-05-06;CCBR;;João Paulo;Software  Serviços e Treinamento
+184;2002-05-06;Gerab;;Glauber;Manutencao de SW
+185;2002-05-06;Bandeirante;;Marco Minoru;Software  Serviços e Treinamento
+186;2002-05-06;Itaipu;;Rosemary Rigo;Treinamento de Imagenation
+187;2002-05-06;Copel;;Ledo / Akira;Manutenção / Licenças / Consultoria
+188;2002-05-06;Petrobras / RSPS;;Glauber/Almerinda;Serviços de Migração e RSPS e RSUD
+189;2002-05-06;Petrobras TCOM;;Edmundo;Serviço de Manutenção de SW
+190;2002-05-06;Petrobras/Sinergia;;Sônia/veloso;Serviços
+191;2002-05-29;Reduc - IERC;;Damião;Sw  Trein  Serv  Manut.p Engenharia
+192;2002-11-07;Petrobras-RNNE;;Glauber;Upgrade e Manut. Sw Kofax
+193;2002-05-06;Petrobras-RSPS;;Glauber;Upgrade e Manut. Sw Kofax
+194;2002-05-06;Itaipu / Parceiro;;Denise Prolo;Treinamento em Imagenation 2 dias
+195;2002-05-06;Reduc - AT;;Jorge Simões;SW  Manut  Serv Desenv
+196;2002-04-06;Replan IERN;;Marcelo Lopes;Assessoria na Administração do Sistema
+197;2002-05-06;COFAP;;Mauro da Conceição;Conversão para Lin Concorrentes
+198;2002-05-06;Furnas Centrais Elétricas;;Sergio;Software ViewCafe
+199;2002-05-27;Itaipu;;Fernando Prugner;Software Imagenation VME
+200;2002-05-23;Itaipu;;Fernando Prugner;LaserFiche para ESC
+201;2002-06-19;Petrobras TCOM;;Eveline/Andrea Vallim;Serviço de Manutenção de SW
+202;2001-11-07;PETROBRAS/TRANSPETRO/RNNE;;Márcia/Jaqueline Reis Vilasboas;PCM 600.14.0024/02 - Software  Manutençã
+203;2002-05-06;Valspar;;Cilene Nunes Marquerito;Software  Manutenção e Serviços
+204;2002-05-06;Copene;;Elizete Sá/Walmir;Manutenção
+205;2002-06-19;Transpetro;;Francisco (Contratos)/Conceição Vieira;Manutenção e  Serviços
+206;2002-06-25;OAS - Maceió;;Rodrigo Estay;Fornecimento de EDMS - SW e SÇ - p/ Obra
+207;2002-06-26;CTEEP;;Waldyr Bitetti;Orçamento para aquisição do sistema GED
+208;2003-05-19;Petrobras/Repar;;Janete;Proposta Unificada GEDJUR
+209;2002-05-07;Radiante Eng. Telecomunicações;;Simone Wall;Proposta Comercial de Software Imagenati
+210;2002-05-07;DBK Tecnologia/Light;;Fernando Carrocino;Proposta Comercial de Software , Serviço
+211;2002-09-07;PETROBRAS/REPAR/ASJUR;;Claudia Marcia Cooper/João Gavlak;Proposta Comercial de Manutenção de Soft
+212;2002-11-07;PETROBRAS/RNNE;;Glauber Vasconcelos;Proposta  Serviços Adicionais - Dossiê d
+213;2002-08-19;PADANA;;Roberto;Manutengco Spicer Imagenation
+214;2002-07-22;Bosch Rexroth Ltda.;;Marco Aurilio Soares;Software/Manutegco Spicer Imagenation
+215;2002-07-30;PETROBRAS-TCOM;;Dunlop/Behar;Proposta JRUN e Servicos TCOM
+216;2002-01-08;Petrobras - IERG;;Yukio;IERG - Proposta de Renovação de Manutenç
+217;2001-12-07;Acesita;;Marilene Drumond Caiado;Proposta Consolidada de Atualização Tecn
+218;2002-08-08;Petrobras/ REPLAN;;Marcelo Lopes;Proposta de Melhorias no EDMS do IERN
+219;2002-08-13;Petrobras;;Antonio Carlos;Proposta JRUN - REPLAN
+220;-999999999-01-01;COPENE;;Elizete Sá / Célia Pinheiro;Upgrade das Soluções da COPENE
+221;2002-08-23;Transpetro/Gasodutos;;Conceição Vieira;Projeto City Gates - Transpetro
+222;2002-08-23;Petrobras - Replan;;Marcelo Lopes;IERN - Interface WEB
+223;2002-03-09;Itaipú;;Rosemary;Itaipú - Melhorias no Ged
+224;1999-08-30;Cosipa;;Carlos Mello;Proposta de 1999 -RBH-063 Manut, Softwar
+225;1999-05-25;Cosipa;;João Francisco;Software Imagenation
+226;1997-12-01;Copene;;;Fornecimento de Software, Serviços e Tre
+227;1998-09-18;Rlam;;;Estimativa de Preços de Software
+228;2002-09-20;Petrobras/Redic-AT;;Marcus Vinicius;Reduc AT - Manutenção e Serviços
+229;2002-09-23;Petrobras;;Cristina Cortial;Software JRUN - TI/BA
+230;2002-09-25;Copel Distribuição;;Roberto Rathund;Copel - Manutenção 2002 e SW
+231;1999-05-28;Cofap;;;Proposta de solução p/ inspeção de quali
+232;1999-05-31;Cofap;;;Proposta de solução para inspeção de qua
+233;1999-06-05;Cofap;;;Proposta - Melhoria do SCS
+234;1999-04-16;Cofap;;;Proposta old- Melhoria do SCS
+235;1999-09-22;Cofap;;Emilia Piagentini;Proposta Comercial de Imagenation
+236;1999-09-22;Cofap;;Emilia Piagentini;Proposta Comercial de Imagenation
+237;1998-03-09;Usiminas;;Gerência de Contratos - ISO;Proposta de 1999 - RBH_146_/02
+238;1998-10-11;Usiminas;;Gerência de Contratos - ISO;Proposta de 1999 - RBH_176_02
+239;2002-09-30;iProcess;;Vinicius Amaral;iProcess - Imagenation para revenda
+240;2002-01-10;Eletrosul;;Edital # 90520244;Proposta Técnica e Comercial
+241;2002-01-10;Transpetro;;Sra. Conceição Sande;Serviços Melhoria - Indicadores
+242;2002-09-26;Cofap;;Luciana;Cofap - Proposta 141-C Modificada
+243;2002-01-10;Cofap;;Mauro;Cofap - Prop 197 B Modificada
+244;2002-10-18;Petrobras/RNNE;;Marco Antonio;Proposta de fornecimento de VRS/Kofax p/
+245;2002-10-21;Petrobras RNNE;;Glauber;RNNE - Migração do RSUD
+246;2002-10-21;Petrobras RNNE;;Glauber;RNNE - Conversão para Novao Ambiente
+247;2002-10-23;Petrobras- Rlam;;Roseli;Renovação Manutenção 11/02 a 10/03
+248;2002-10-24;Petrobras/ Replan;;Antonio Carlos;Melhoria Migração Tabela
+249;2002-01-11;Petrobras - Revap;;Desenvolver WF de Engenharia;RSPS - Sinergia
+250;2002-10-31;Petrobras-RSPS;;Valmir Cavalcante;Licenças e Upgrade - Ascent
+251;2002-11-13;COFAP;;Nora;COFAP - Orçamento integr. SCS-CAPPe
+252;2002-11-13;Petrobras - Tcom;;Bear;Tcom - Operação e Servoços
+253;2003-01-31;Transpetro;;Roseli / Conceição;Workflow - GEDTrans
+254;2002-11-13;Petrobras RNNE;;Glauber;RNNE - ViewCafe p Dossiê do Empregado
+255;2002-11-14;Otis;;Marcelo;Otis - Manut Imagenation
+256;2002-12-19;Petrobras-Replan;;Antonio Carlos;Renovação Manutenção
+257;2002-11-22;Petrobras Revap;;Elisa;Revap- Renovação da Manutenção
+258;2002-11-22;GERDAU;;Fabio Belmonte;GERDAU - Projeto GED para RH
+259;2002-11-26;Transpetro;;Roseli Luccas;Manual do Apoiador
+260;2002-03-12;Votorantim Cimentos;;Soraya Werner;Proposta GED Engenharia
+261;2002-05-12;Petrobras RNNE;;Glauber;RNNE-RSPS Renovação 2002
+262;2002-06-12;Transpetro;;Roseli Luccas;Ajustes no Sistema de Migração
+263;2002-09-12;Bull Ltda;;Elsio Baptista;Proposta de software e serviços - Edital
+264;2002-11-12;Petrobras RNNE;;Glauber;RNNE - Proposta Treinamento, Oper-Assist
+265;2003-10-12;Cofap;;Mauro Conceição;Cofap - Proposta de JRun 4.0
+266;2002-12-12;Replan;;Antonio Carlos;Upgrade do SCS em ambiente XP
+267;2002-12-17;REGAP;;Alberto;REGAP - NAS/SCS para Acervo Técnico
+268;2002-12-17;ACESITA;;;Imagenation LF View
+269;-999999999-01-01;;;;Cancelada
+270;-999999999-01-01;;;;Cancelada
+271;2003-06-01;Cofap;;Deude Lima Junior;Cofap - Manutenção das Concorrentes
+272;2003-10-01;SMARTTECH;;Robert L. dos Santos;Proposta de renovação de manutenção e se
+273;2002-12-16;Dinamize;;Júlio Cesar;View Café - Proposta para Dinamize (Gerd
+274;2003-01-14;DBK (para a Light);;Ferenando Carrocino;DBK - Proposta View Café 7 licenças
+275;2003-01-15;Petrobras/REVAP;;Elisa;REVAP-Serviços de Upgrade
+276;2003-01-28;TAM - Aviação Executiva;;Luiz Fernando Junior;TAM - Proposta Orientativa de Licenças
+277;2003-06-02;Petrobrás;;Xavier;IERC - Aquisições de 10 NAS Conc. e View
+278;2003-07-02;WEG Motores;;Pedro Gomes;WEG - Orçamento de licenças View Café
+279;2003-12-02;Braskem;;Saint Clair;Renovação de Manutenção-Braskem
+280;2003-02-13;WEG Indústrias S.A.;;Pedro Gomes Falcão;WEG - Orçamento de licenças Imagenation
+281;2003-02-17;DBK Tecnologia;;Fernando Carrocino;DBK - Treinamento Imagenation para a Lig
+282;2003-07-03;Petrobras-Transpetro;;Glauber;Melhorias GEDTrans
+283;2003-02-28;Projectus Projeto de Engenhari;;Adir Nunes;Orçamento para fornecimento de aplicação
+284;2003-06-03;Transpetro;;Conceição;Instalação Transpetro
+285;2003-07-03;TCOM Petrobras;;;Especificação de Melhorias - Bloco Peque
+286;2003-03-14;Petrobras/IERC;;Paulo Augusto Xavier;IERC - Desenv. e implantação do Módulo E
+287;2003-05-15;PETROBRAS-TI BA;;Roseli Luccas de Oliveira;LUBNOR-Arquivo Técnico-Software
+288;2003-03-25;Itaipu Binacional;;Fernando Prugner;Itaipu - Renov. Manutenção 2003-2204
+289;2003-03-28;Petrobras-IERC;;Xavier;Serviços de Implantação do Módulo DV-DF/
+290;2003-03-20;Petrobras-Transpetro;;Roseli;Dimensionamento de Horas GED x GIS
+291;2003-03-28;Petrobras-Transpetro;;Roseli;Proposta para Operação Assistida
+292;2003-01-04;Petrobras-RLAM;;Roseli;Melhorias e atualização no SEGED-RLAM
+293;2003-02-04;Transpetro;;Conceição;Proposta de Melhorias no GEDTRANS
+294;2003-07-04;BRASKEM;;Elizete;BRASKEM - Upgrade para Manutençao Ouro
+295;2003-07-04;Bosch Latin American;;Dalton Cavalcanti;Cotação para produtos Spicer/Imagination
+296;2003-09-04;BOSCH DO BRASIL;;Dalton Cavalcanti;Cotação de LU Spicer V e VME
+297;2003-10-04;NSK Brasil;;Liparelli;NSK - Proposta Orientativa de Novation
+298;2003-04-15;Itaipu Binacional;;Fernando Prugner;Itaipu - Treinamento de Instalação do No
+299;2003-04-22;REPLAN/AT;;Antonio Carlos;Melhorias no SEGE
+300;2003-04-22;REPLAN/AT;;Antonio Carlos;Melhorias no SEGED
+301;2003-04-30;Petrobras - RNNE;;Glauber;Serviços Compartilhados RPQS
+302;2003-07-05;Petrobras TI-BA;;Roseli;Serviços-Unificação GED ABAST-RNNE
+303;2003-09-05;Petrobras/Repar;;Janete Leite;Bosch - Manutenção Spicer
+304;2003-12-05;ACESITA;;Marilene Drummond Caiado;Proposta de Renovação Manutenção 2003
+305;2003-05-13;S&C Electric Brasil;;Andrei Corsato;S&C Electric - Aquisição do software Spi
+306;2003-05-14;Bosch do Brasil;;Dalton Cavalcanti;Cotação-Proposta de licenças Spicer VME
+307;2003-05-20;REDUC/AT;;Machado;Licenças SCS e Visualizador
+308;-999999999-01-01;Transpetro;;;Migração Transpetro
+309;2003-05-26;Villares Metal S/A;;Jorge Luis;GED/WF
+310;2003-05-28;Fabrica Info;;Christiano;Fabrica Info - Orçamento para Elab. de E
+311;2003-03-06;Petrobrás - Tranpetro;;;Transpetro - Melhoria de Junho
+312;2003-03-06;Petrobras - Transpetro;;;Transpetro - Melhoria Junho
+313;2003-09-06;Villares Metal S/A;;Jorge Luiz;Proposta Orientativa
+314;2003-09-06;Petrobras/TCOM;;Roberto Dunlop;TCOM - Renov. 2003
+315;2003-12-06;Villares Metal S/A;;Jorge Luiz;Proposta Orientativa GED para Engenharia
+316;2003-01-07;Itaipu Binacional;;Jorge Henn;Itaipu - Proposta de Serviços
+317;2003-06-27;Votorantim Cimentos;;Soraya Werner;Proposta GED Engenharia
+318;2003-03-07;DBK-Light;;Fernando Carrocino;DBK-Light - Prop. Treinamento Imagenatio
+319;2003-10-07;Replan-AT;;Antonio Carlos;Serviços de Implantação
+320;2003-07-16;Replan - IERN;;Marcelo Lopes;Operação Assistida e Consultoria
+321;2003-07-17;Bosch;;Dalton;Bosch - Atualização Imagenation
+322;2003-07-21;Technip Coflexip;;Alessandra Ferreira;Imagenatio - Technip Coflexip
+323;2003-12-07;Bosh Latin América - Campinas;;Dalton Cavalcanti;Atualização do Parque Imagination e cobe
+324;2003-07-21;Replan/AT;;Antonio Carlos;Integração SEGED-CIPA/Mapas de Risco
+325;2003-11-27;Replan/AT;;Antonio Carlos;Licenças de uso Replan
+326;2003-07-23;Petrobras-Transpetro;;Cocneição/Roseli;Melhorias GEDTRANS
+327;2003-07-30;Rio Polímeros;;Rodrigo Vieira - Accenture;Rio Pol - Fornecimento de sistema
+328;2003-01-08;TopGraph;;Roberto;Spicer VME
+329;2003-05-08;NET;;Lindomar Pereira de Souza;Proposta de Automação de Fluxos da NET
+330;2003-12-08;Itaipu Binacional;;Fernando Prugner;Melhorias do Sistema GED
+331;2003-12-08;Petrobras/REVAP;;Elisa B. Silva;Workflow para REVAP
+332;2003-08-25;Projectus;;Onofre;Imagenation VME
+333;2003-08-25;Braskem-Insumos Básicos;;Elizete;Serviços de Melhorias
+334;2003-08-29;Tenaris Confab;;Paulo Zanpieri;Spicer VME
+335;2003-09-17;PAP-EXPRESS;;Reverton;Imagenation VME
+336;2003-09-29;Robert Bosch;;Elton;Proposta VME
+337;2003-02-10;PETROBRAS/TRANSPETRO;;Roseli e Conceição;Melhorias Transpetro
+338;2003-03-10;DBK;;Fernando Carrocino;Imagenation VMEe Treinamento
+339;2003-08-10;Setal;;Moacir Bianchini;Prop Setal
+340;2003-10-10;M.M.COFAP;;Luciana;Serviços de Implantação
+341;2003-10-10;Estacom Engenharia S/A;;Mauro;Prop Estacon
+342;2003-10-13;Mendes Junior;;Antônio;Prop Mendes Jr
+343;2003-10-15;CST;;Edilson;Proposta Comercial e Técnica
+344;2003-10-16;ENESA ENGENHARIA S/A;;Orácio;Prop Enesa
+345;2003-10-16;Queiroz Galvão;;Batista;Prop Queiroz Galvão
+346;-999999999-01-01;;;;Manutenção Cofap
+347;2003-10-29;Petrobras-Reduc;;Costa;Proposta Spicer
+348;2003-10-31;Bench;;Arinaldo;Proposta Comercial
+349;2003-10-31;Embraco;;Lorenzo;Proposta Comercial
+350;2003-10-28;GD Brasil;;Carlos;Proposta Spicer
+351;2003-04-12;Petrobras TI-BA;;Glauber;Serviços de Suporte Técnico
+352;2003-12-11;Transpetro;;Roseli;Relatórios de Inspeção
+353;2003-11-19;Petrobras Tcom;;Gustavo e Behar;Tcom - Software
+354;2003-11-19;Skanska;;Osório;Prop Skanska
+355;2003-11-13;Padana;;Roberto;Proposta Spicer
+356;2003-11-20;Projectus;;Sérgio;Prop Projectus
+357;2003-11-21;Setal;;Moacir;Prop Setal
+358;2003-11-21;Esep;;Antônio Carlos;Prop Esep
+359;2003-11-21;Cosipa;;Jorge;Imagenation
+360;2003-11-25;Queiroz Galvão;;Batista;Prop Queiroz Galvão
+361;2003-11-25;KTY;;Arão;Prop KTY
+362;2003-11-25;IESA;;Márcio;Prop IESA
+363;2003-11-28;Enesa;;;Prop Enesa
+364;2004-03-29;V & M;;Antônio Carlos;Software e Serviços - EDMS
+365;2003-03-12;Eletronuclear;;Sérgio;Prop Comercial e Técnica
+366;2003-12-22;Documentum do Brasil;;Felipe Garcia;eRoom - Localização do Help
+367;2004-01-13;Multi Storage;;Henrique;Treinamento GEDTrans
+368;2004-12-01;TI-BA;;Jaqueline;Jrun 4.0
+369;2004-02-02;CVRD;;Mario Raulino;Proposta Comercial e Técnica - GED na en
+370;2004-02-02;Petrobras/Tcom;;Omar;Serviços de Continuidade
+371;2004-02-17;CVRD;;Mario Raulino;LU's para GED Administrativo
+372;2004-03-03;Petrobras TCOM;;Omar;Serviços de Melhorias
+373;2004-03-16;Braskem;;Elizete;Migração de Servidor
+374;2004-03-16;Cofap;;Fernando;Adaptação do Application Server
+375;2004-04-16;Compasso;;Mario Faria;Proposta JnJ
+376;2004-05-13;Petrobras;;Paulo Sérgio;Portar e Suportar Sistemas
+377;2004-06-21;Cofap;;Luciana/Mauro;Portar NAS para DCTM
+378;2004-02-07;COMGAS;;Maurício Delfino Eduardo;Sistema de Gestão de Documentos
+379;2004-06-07;Pfizer;;Marcos Ignácio;Proposta para Implantação
+380;2004-08-07;CVRD;;Daniel Freitas;Digitalização e Banco de Imagens
+381;2004-08-07;OR Service;;Rui Jordão;Proposta Vivo
+382;2004-08-07;Recall;;Dener de Lima;Proposta Vivo
+383;2004-07-14;EMC;;Arlindo Jorge da Silva;Proposta Petrobras - Folio
+384;2004-07-20;Deloitte;;Ivan Paiva;WCM - Roche - Deloitte
+385;2004-07-20;EMC;;Arlindo;eRoom Petrobras EMC
+386;-999999999-01-01;;;;Cancelada
+387;2004-07-27;Bull;;Jorge Alonso;Document Imaging Banrisul
+388;2004-08-03;CBLC;;Leandro;Implantação de Sistema de GED
+389;2004-08-10;RPM - Kinross;;Luis Pellati;Gestão Doc's e Processos  Ag Tetra Pak
+390;2004-08-19;EMC;;Lucena;Alocação de Profissional Técnico
+391;2004-08-19;Laboratórios Pfizer Ltda.;;Marisa Marques;ECM para Acervo Fotográfico
+392;2004-09-14;PDF Brasil;;Luis Augusto Bellucci Cavalcante;Carga em Lote
+393;2004-09-20;Laboratórios Pfizer Ltda.;;Marisa Marques;ECM para Congress Activities Follow-up
+394;2004-10-08;EMC;OP-337;Anderson Meira;Localização Webpublisher
+395;2004-10-08;V & M;;Daniel Zampier;Integração DCTM com SAP R/3
+396;2004-10-26;Exxon Mobil;;Kelly Queiroz;Licenças de Uso Documentum
+397;2004-10-29;Eli Lilly;;Demétrio Paschoal ;Licenças de Uso Eroom
+398;2004-11-08;Laboratórios Wyeth;OP-358;Fabio Tezoto;Licenças Documentum Contributor
+399;2004-11-08;Laboratórios Pfizer;;René;Digitalização de Documentos
+400;2004-11-23;Connect;OP-364;Tânia;Proposta para Connect Roche
+401;2004-11-26;EMC - AÇOMINAS;;Alexandre Lobo;SAP Archiving
+402;2004-11-30;EMC - Telemig;OP-365;;GED - Logística
+403;2004-12-14;CPFL;;Abdala;UPGrade de Versão para DCTM 5i
+404;2004-12-14;CPFL;;Abdala;Atualiz. e Manut. LU´s e Sup. Nível 2
+405;2004-12-21;Pfizer;OP-359;Nilson;PED - Fase 2
+406;2004-12-21;CVRD;OP-368;Daniel Freitas;Consolidação e Expansão do A.T. DIPE
+407;2005-01-07;EMC - Santander;;Lincoln Bastos;Proposta BiDesigner
+408;2005-02-04;Accenture BASF;OP-372;Rafael Martins;Proposta Serviços Implementação WCMS
+409;2005-02-17;Sebrae;;Wolney Mendes Martins;Licitação GED e Workflow
+410;2005-02-22;EMC;Proposta de WCM para o SERASA;Christiano Lucena;WCM Serasa
+411;2005-03-23;GVT - MCI;;;Software e Manutenção
+412;2005-03-31;Synos - UOL;OP-388;Leonardo;BPM - ITIL
+413;2005-04-04;EMC / Petrobras;;Alexandre Alves;Substituição do WordFlow no Tributário
+414;2005-04-13;Vallourec & Mannesmann;;Antônio Carlos;Renovação da Manutenção e Suporte
+415;2005-04-19;ThyssenKrupp Metalúrgica;;Paiva;Consultoria
+416;2005-04-26;Optimiza;OP-395;Edgar Archila;Consultoria
+417;2005-04-27;Acesita;OP-376;Marilene Caiado;Imagenation
+418;2005-05-01;Vallourec & Mannesmann;OP-396;Rafael / Daniel Zampier;V&M - Colaboração
+419;2005-05-09;Huf do Brasil;;Leandro Dias;EDMS para Engenharia
+420;2005-05-09;Daimler Chrysler;OP-375;Fabio Ramos / Gideoni;Arbortext E3
+421;2005-06-04;EMC;;Christiano Lucena;KM - CVRD
+422;2005-06-10;Oxiteno;;Marisa;GED e Workflow
+423;2005-06-20;EMC - Natura;OP-416;Flávio Cordeiro;WCM - Substituição U-Content - Serviços
+424;2005-06-20;Wyeth;;;Ugrade de Versão - DCM
+425;2005-06-20;Natura;OP-416;Maurício;WCM - Natura Software
+426;2005-06-22;Natura;OP-416;Maurício;WCM - Natura
+427;2005-06-27;SERASA;OP-405;Christian Gutierrez;WCM
+428;2005-07-13;Columbia;OP-400;Daniel;PRODAM - Multas
+429;2005-08-03;CVRD;OP-423;Rubens Mangabeira;Form 20F
+430;2005-08-05;Wyeth;;Fabio Tezoto;Projeto RH
+431;2005-08-08;CVRD;OP-421;Flávia Accioly;Fábrica de GED
+432;2005-08-16;COMGÁS;;Uélis Tozo;GoogleGAS
+433;2005-08-25;CEG;;;GED para Engenharia e Qualidade
+434;2005-10-30;OR Services;;Tadeu Melo;Licenças OR - Vivo
+435;2005-11-09;RMP;OP-435;Robson;GED Empreendimentos
+436;2005-11-16;Eli Lilly;OP-436;Alberto Conde;Documentum Notas Fiscais
+437;2005-11-23;EMC2;OP-437;Carlos Coneglian;Proposta Pão de Açucar
+438;2005-12-20;Pão de Açúcar;OP-437;Ageu;Licenças Documentum
+439;2005-12-20;Comgás;;Uélis;Software EMC Documentum - WP
+440;2005-12-20;Comgás;;Uélis;Software EMC Documentum - SCS
+441;2006-02-08;Serasa;OP-447;Alessandra;Site e-Commerce
+442;2006-02-16;Comgás;;Uélis;Suporte On Site
+443;2006-02-17;RPM - Kinross;;Alexandre;Implantação do SGI
+444;2006-02-20;CVRD;;;Serviços - Banco de Imagem
+445;2006-03-15;Laboratórios Wyeth Whitehall;;Fabio e Suzana;Manutenção Documentum
+446;2006-03-24;Serasa;OP-452;Christian;Continuidade - WCM
+447;2006-04-10;IPESP;OP-469;;Proposta * COBERTURA* IPESP
+448;2006-04-12;Oxiteno;;Raul e Ricardo;Aluguel de Plotter e Recurso
+449;2006-04-17;Serasa;OP-470;Djalma ;Suporte On-site e Transf. de Conheciment
+450;2006-05-10;Kinross;OP-460;Robson Salvador;Colaboração com Documentum
+451;2006-05-12;Serasa;OP-476;Francisco Rodrigues;Proposta Orientativa BPM
+452;2006-05-16;Comgás;;Ronald;Renovação de Manutenção
+453;2006-05-18;Serasa;OP-475;Christian e Rodolfo;Software Documentum
+454;2006-05-26;Metrô;OP-478;Miriam Milhomens;Proposta Orientativa
+455;2006-05-26;Serasa;OP-481;Christian Gutierrez;proposta de Globalização do Site Serasa
+456;2006-06-06;V&M;;Daniel Zampier;Renovação de Manutenção DCTM - 2006
+457;2006-06-06;Walter Koch;Prestação de Serviço no Norte da África OP-487;Walter Koch;Proposta orientativa Walter Koch
+458;2006-06-07;Telefonica;;;GED - SGDT
+459;2006-06-13;Kinross;;Robson Salvador;Projeto Jurídico
+460;2006-06-19;Oxiteno;OP-455;;ASJUR
+461;2006-06-27;Softtek;OP-490;Helder;Proposta Portal Telefonica
+462;2006-07-12;EMC;;Ricardo Bonadio/Carlos;Pão de Açúcar-Carga em Lote
+463;2006-07-12;Pfizer;;Marcos Ignácio;Upgrade DCTM
+464;2006-07-12;Wyeth;;Marcus / Jean;Software Documentum DCM
+465;2006-07-14;Kinross - RPM;;;GED Fase 2
+466;2006-07-20;CBD - Pão de Açúcar;;;Alocação de Recurso Documentum
+467;2006-08-09;Light;OP-472;Xcom;Proposta Orientativa HTR
+468;2006-08-17;Serasa;OP-492;Alexandre Bonfá e Djalma;Inteligência Competitiva
+469;2006-08-22;Serasa;OP-501;Djalma;Renovação de Manutenção 2006 - DCTM
+470;2006-08-22;Comgás;;Ronald;Renovação de Manutenção 2006/2008
+471;2006-08-24;Oxiteno;OP-503;Patrícia Felisbino;Proposta KM
+472;2006-09-04;Aços Villares;;Mirtes;GED Corporativo
+473;2006-09-06;Diveo;;Cláudio Amaral;BPM
+474;2006-09-11;EMC Venezuela;OP-534;Ana Verdegais;SCS Venezuela
+475;2006-09-13;Pfizer;;Marcos Ignácio;Renovação de Manutenção DCTM - 2006
+476;2006-09-19;Promon Engenharia;;;Renovação de Manutenção DCTM - 2006
+477;2006-09-28;Bakerhughes;OP-549;Paulo Santos;Instalação Captiva
+478;2006-10-02;Comgás;OP-559;Ronald;Ampliação licenças DCTM
+479;2006-10-03;Monsanto;OP-367;Sonia Alves;Programa de Carga em Lote
+480;2006-10-03;Serasa;OP-553;Christian Gutierrez;Script Atualização WP
+481;2006-10-16;Kinross - RPM;;Lana;Alocação de Recurso - Arquivo Técnico
+482;2006-10-19;Rio Tinto;;Ailton;ECM - Projetos
+483;2006-11-06;Wyeth;;Jean Soares;Workflow
+484;2006-11-07;CBD;;Joaquim ;Software Documentum - Ampliação de LU's
+485;2006-11-09;ADM;OP-393;Geovana;Aplicação de Gerenciamento de e-mails
+486;2006-11-10;Sinto Brasil S/A;OP-185;Fernando Pavani;Gestão de Documentos de Engenharia
+487;2006-11-10;Sandvik MGS S/A;OP-577;Alexandre Tavares;Gestão de Documentos Técnicos
+488;2006-11-13;Serasa;OP-493;Djalma Padovani / Chen;Software Documentum - Ampliação de LU's
+489;2006-11-16;Redecard/Officeware;;Officeware;Projeto de BPM/ECM
+490;2006-11-24;Grupo Ultra;;Maira;GED - Contratos Bancários
+491;-999999999-01-01;CANCELADO;CANCELADO;CANCELADO;CANCELADO
+492;2006-11-28;Or Services;;Vivo;Renovação de Manutenção Licenças Vivo
+493;2006-11-30;Serasa;;;Alocação de Recurso
+494;2006-12-05;Oxiteno;OP-610;Raul Vargas;Expansão de Licenças de SW
+495;2006-12-13;Chevron;OP-571;Sergio Oliveira;Projeto GED/ECM 
+496;2006-12-14;BM&F;OP-630;Mario Carneiro;WCM
+497;-999999999-01-01;CANCELADO;CANCELADO;CANCELADO;CANCELADO
+498;2007-01-11;VALLOUREC & MANNESMANN;Projeto GED Corporativo;;Aquisição de 1500 Licenças Documentum
+499;2007-01-11;Soeicom ( Cimentos Liz );OP-648;Marcelo Menezes;GED + Integraç. SAP -  Doc. Técnicos
+500;2007-01-15;TAM;OP-646;Fábio Kawasoko;Administração Site Documentum
+501;2007-01-17;Larousse do Brasil;OP-634;Camila Werner ;PTC - Arbortext
+502;2007-01-18;Mapfre Seguros;;Max;Outsoursing
+503;2007-01-22;Rio Tinto;OP-656;Ailton Aquinos;Projeto de Colaboração - e-Room
+504;2007-01-30;Wyeth;OP-662;Jean Soares;Administração Site Documentum
+505;2007-01-31;CRF;;;Software e Manutenção DCTM
+506;2007-02-05;CVRD;;;3o. Aditivo
+507;2007-02-15;Serasa;OP-666;Peninha e/ou Cristian;Alocação de Recurso - WCM
+508;2007-03-06;Rodobens;OP-673;Ovídio Dias;Proposta Rodobens
+509;2007-03-06;Cimentos Liz;;;Outsoursing Digitalização
+510;2007-03-21;Ultragaz;OP-652;Sofia Prado;Projeto Biblioteca - KM - Universidade C
+511;2007-03-21;Laboratório Pfizer;OP-691;Marcos;Workflow Material de Marketing
+512;2007-03-27;Oxiteno;OP-687;Paulo Estevão Fiorese;Renovação de Contrato de Manutenção
+513;2007-03-29;Kinross - RPM;OP-670;Leonardo Pereira;Melhorias (GRD e Carga em Lote)
+514;2007-04-03;Wieth;OP-688;Jean Soares;Renovação de Contrato de Manutenção
+515;2007-04-03;Kinross;OP-689;;Renovação de Contrato de Manutenção
+516;2007-04-10;Vallourec & Mannesmann;OP-703;Juliano Paula;Carga em Lote
+517;2007-04-12;Wyeth;"Unifica&#231;&#227;o das Op&#180;s 683 e 688";Diane Martins;Renovação de Contrato de Manutenção 2007
+518;2007-04-12;Kinross;OP-689;Robson Salvador;Renovação de Manutenção Documentum 2007
+519;2007-04-24;Linde Gas Therapeutics- AGA;OP-640;Désirée Cortez;Serviços de Treinamento
+520;2007-04-24;Dell;OP-645;Luiggia Cestari;Treinam em DCTM - BPM/Forms Builder
+521;2007-04-26;Nokia;OP-716;Meire G. Figueiredo ;Solução e-room
+522;2007-05-10;CBD;OP-723;Joaquim;Licenças de Uso Documentum
+523;2007-05-11;RPM - Kinross;OP-724;Rodrigo S Santana;Ampliação de Licenças Documentum
+524;2007-05-14;CBD;OP-723;Joaquim;Ampliação de Licenças
+525;2007-05-23;Pernambucanas;OP-721;Luciana Longo;Solução e-room
+526;2007-05-23;Pernambucanas;OP-738;Luciana Longo;Gestão Documental - Docs. Engenharia
+527;2007-05-30;CTEEP;OP-310;Waldyr Bitetti Filho;Digitalização e Cadastro de Documentos
+528;2007-06-06;CBD;OP-725;Rosângela;Carga em Lote
+529;2007-06-08;Jassen Cilag;OP-594;Francisco Silva;Projeto para DCM
+530;2007-06-15;Rio Tinto;OP-745;Ailton Aquinos;Projeto DTS
+531;2007-06-19;VALLOUREC & MANNESMANN;OP-498;Anderson Dolabela;Serviços de Digitalização
+532;2007-06-20;Petroquímica Suape;OP-740;Taismar Zanini;Consultoria, Serviços e Licenças de Uso 
+533;2007-06-27;ABB - Asea Brown Brovery;OP-743;Fernanda Alves/Edson Moscardi;ECM/e-Room para gerenciamento Docs. Tecn
+534;2007-07-11;Redige Documentação Técnica;OP-750;Maria Virgínia Cellet  (Diretora);Renovação de Manut.  Arbortext  Editor
+535;2007-07-18;SERASA;OP-749;Djalma Padovani;Serv de Criação Site de Prod. e Homolog.
+536;2007-07-24;Novartis;OP-245;Marcos Rebelato;Projeto Corporativo ECM e Workflow
+537;2007-08-01;V&M Tubes;OP-717;Newton Romero e Ricardo;Projeto Jeceaba
+538;2007-08-06;Ipesp;OP-766;Clayton Eziquiel do Couto;Treinamento DCTM
+539;2007-08-06;Ipesp;OP-767;Terezinha Yuassa (compras);Serviços de Manutenção DCTM
+540;2007-08-20;Laboratórios Servier;OP-768;Marcelo Carvalho;Solução para Compliance - GED/DCM
+541;2007-08-22;Wyeth;OP-688;Jean Soares;Migração de Servidores
+542;2007-08-27;Sandvik MGS;OP-779;Alexandre Tavares;DCM -  Doc.Técnica e Compliance
+543;2007-08-30;CCEE - Câmara de Comerc de Energ. Eletr.;OP-771;Comissão de Licitação;Projeto Corporativo - GED/BPM
+544;2007-09-17;Agrega/Ambev;OP-783;Erika Fernandes ;Gestão Documental
+545;2007-10-04;Serasa;OP-793;Christian;Transferência de Conhecimento
+546;2007-10-04;Oxiteno;OP-795;Marisa Padovani;Outsourcing Coordenador Documentum
+547;2007-10-08;Monsanto;OP-585;Danilo Moura;Atualização do ambiente DCTM
+548;2007-10-18;SAAE - Guarulhos;OP-801;Luis Palini;Organização de Arquivo e GED
+549;2007-10-19;Vatech Hydro;OP-785;Ruby Rudy Arellano;Gestão de Documentos Técnicos
+550;2007-10-20;Sandvik;OP-802;Alexandre Tavares;Gestão de Documentos Técnicos BH
+551;2007-10-22;ABB - Asea Brown Brovery;;Fernanda / Edson;Processos
+552;2007-10-24;Serasa;OP-813;Christian Gutierrez;Alocação de Recursos: Intranet
+553;2007-10-25;Monsanto;OP-814;Danilo Moura;Serviços de Suporte Técnico
+554;2007-10-25;Serasa;OP-786;Christian Gutierrez;Relatório Anual e Outros
+555;2007-11-13;Bahiagás;OP-826;Jocelma Rios;Gestão de Documentos e Conteúdo Corp.
+556;2007-11-13;Serasa;OP-681;Carlos Alcantara;Renovação Manutenção 2007
+557;2007-11-14;EMC;OP-821;;Serviços de Consultoria Inst. DCTM
+558;2007-11-23;Linde Gáses Ltda.;OP-811;Eloi Oliveira;Gestão de Documentos de Engenharia
+559;2007-11-26;Opice Blum Advogados;OP-822;Sergio Estrela/Mário Gomes;Site de colaboração eRoom
+560;2007-11-29;CBD;OP-680;Marcellie Paiva;Renovação Manutenção CBD 2007
+561;2007-11-30;Linde Gases;OP-811;Eloi Oliveira;Site de Colaboração eRoom
+562;2007-12-05;EMC2;OP-830;Alexandre Duarte;Consultoria para BMF
+563;2007-12-05;SAAE - Serviços Autônomo de Água e Esgot;OP-801;Luiz Palini;Fornecimentos SW/Serv. DCTM
+564;2007-12-11;VATECH HYDRO;OP-833;Ruby;Software e Serviços eRoom
+565;2007-12-14;Oxiteno;OP-456;Eduardo Bastiglia;Serviços de Consultoira
+566;2007-12-20;TAM;OP-835;Rene Santiago dos Santos;Gestão de Documentos SOX
+567;2007-12-26;Nova América S/A;OP-695;Sergio Luiz Carrijo e Luciana S. Marchi;Gestão de Documentos - Normas ISO (DCM)
+568;2007-12-26;Nova América S/A;OP-695;Sergio Carrijo/Luciana S. Marchi;Gestão de Documentos - Normas ISO (DCTM)
+569;2007-12-27;Saint-Gobain Canalizações;OP-832;João Altenir e Denise;Gestão de Documentos Técnicos
+570;2008-01-11;Metso;OP-834;Roberto da Silva Picos ;Implantação Documentum
+571;2008-01-15;Bahiagás;OP-826;Jocelma;Gestão de Documentos Técnicos
+572;2008-01-24;Laboratórios Servier;OP-768;Marcelo Carvalho;Site Colaboração - eRoom
+573;2008-01-24;Bahia Pulp;OP-840;Márcio Souza;Gestão de Documentos de Engenharia
+574;2008-02-06;BR Distribuidora;OP-661;Fernando Pinto Pereira;GED/ECM - Subst. Lab 245
+575;2008-02-13;Volkswagen;OP-842;Elaine Kiss;Licenças DCTM e Arbortext Editor(Epic)
+576;2008-02-14;Rede D´Or;OP-836;Dr Abel Magalhães;Gestão de Documentos Hospitalares
+577;2008-02-15;CRF - Cons. Regional de Farmácia SP;OP-847;Elizabeth Adaniya Mesquita;Renovação Contrato Manutenção 2008/2009
+578;2008-02-15;Laboratórios Pfizer;OP-843;Lázaro Marcelino;Renovação de Contrato de Manutenção 2008
+579;2008-02-19;Serasa;OP-844;(usado número 580);(usado número 580)
+580;2008-02-19;Serasa;OP-844;Sandra Cátia Silva;Treinamentos Documentum para TI
+581;2008-02-19;Nestlé;OP-845;Osni Pereira;Treinamentos Documentum
+582;-999999999-01-01;CANCELADO;CANCELADO;CANCELADO;CANCELADO
+583;2008-02-21;CTEEP;OP-310;Carla Mendonça Silva Alves;Digitalização e Cadastro de Documentos
+584;2008-02-26;Tishman do Brasil;OP-853;Joelma Rocha;Treinamento DCTM
+585;2008-02-26;Ipiranga Asfaltos;OP-799;Lucia Hiroshi;Gestão de Documentos Fiscais - NF
+586;2008-02-29;Monsanto;OP-854;Danilo Moura;Migração de versão Documentum
+587;2008-03-10;Igreja Universal;OP-850;José Roberto Amorim ;Gerenciamento Eletrônico de Documentos
+588;2008-03-10;Ferrous Resources do Brasil Ltda;OP-841;Alessandro Oliveira;Gestão de Documentos - Engenharia
+589;2008-03-19;CRF;OP-858;Fábio Lima;Serviços de Treinamento DCTM
+590;2008-03-24;Kinross;OP-859;Eduardo Magalhães;Manutenção e Suporte 2008
+591;2008-03-25;Oxiteno;OP-856;Roberto José dos Santos ;Digitalização e Ger. de NF
+592;2008-03-25;Eliezer;OP-862;Eliezer;Site de Colaboração eRoom
+593;2008-03-26;EMC ;OP-863;Carlos Coneglian;Treinamento DCTM
+594;2008-04-03;Consoft;OP-766;Joaquim Neto;Treinamento DCTM - Admin + Fundamentos
+595;2008-04-04;Vicunha;OP-520;Edson Gasparoto;Captação e Gestão de Notas Fiscais
+596;2008-04-11;Basf;OP-746;Sonia;Implantação Documentum
+597;2008-04-18;Oxiteno;OP-866;Marisa Padovani;Outsourcing Arquivista para Mauá
+598;2008-04-23;CPFL;OP-864;Luciana Henrique de Faria Delarmelindo;Renovação Contr. Manutenção 2008/2009
+599;2008-05-06;Oxiteno;OP-910;Eduardo Bastiglia;Outsourcing de Cadastradores Técnicos
+600;2008-05-06;CANCELADA;CANCELADA;CANCELADA;CANCELADA
+601;2008-05-13;EMC Brasil;OP-661;Alexandre Duarte;SOW BR Distribuidora
+602;2008-05-13;CANCELADA;CANCELADA;CANCELADA;CANCELADA
+603;2008-05-13;Banco Safra;OP-930;Fausto Demarchi;Serviços de Continuidade e Suporte Técni
+604;2008-05-14;Oxiteno;OP-933;Eduardo Bastiglia;Suporte Estendido Selens
+605;2008-05-14;Oxiteno;OP-934;Eduardo Bastiglia;Ampliação de Licenças DCTM
+606;2008-05-14;Oxiteno;OP-935;Eduardo Bastiglia;Treinam. Fundamentos + Usuários Finais
+607;2008-05-16;Katalogo;e-mail de 16/05/2008;Gianna Machado;Fornecimento de Licenças DCTM
+608;2008-05-16;CANCELADA;CANCELADA;CANCELADA;CANCELADA
+609;2008-05-19;Banco Safra;OP-930;Fausto Demarchi;Treinamentos Documentum
+610;2008-05-19;Tupy Fundições;OP-803;Heberton Hoffmam;Proposta Orientativa - GED Corporativo
+611;2008-05-20;HP/VIVO;OP-939;Eder Carlos da Silva;Suporte Migração de Serrvidor Documentum
+612;2008-05-27;Oxiteno;OP-837;Eduardo Bastiglia;Migração dos registros do VAX para o GED
+613;2008-05-28;Banco Safra;OP-951;Ricardo W. Wolf;Pacote de Serviços BPM
+614;2008-05-28;Hypermarcas;OP-880;Antonio Leopoldo;DCM - Normas regulatórias e da qualidade
+615;2008-05-28;HP;OP-953;Eder Carlos da Silva;Suporte Técnico Estendido Selens
+616;2008-06-04;EMC;OP-954;Alexandre Duarte;Serviços Captiva - ABN
+617;2008-06-04;Combustol;OP-955;Orlan Muniz;Gestão de Documentos de Engenharia
+618;2008-06-04;Combustol;OP-955;Orlan Muniz;Suporte Estendido Selens
+619;2008-06-06;IPESP;OP-767;Joaquim/Glauco;Renovação Contr. de Manutenção 2008/2009
+620;2008-06-10;VMB;OP-959;Janaina;Renovação Manutenção 2008
+621;2008-06-10;VMB;OP-959;Janaina;Suporte Estendido Selens
+622;2008-06-17;Wyeth;OP-952;Suzy  Lima;Fornecimento Lic. de Uso DCM Workspace
+623;2008-06-19;Ipsos;OP-961;Henrique Biancotti ;Content Server e Colaboração
+624;2008-06-20;Wyeth;OP-952;Susy Lima ;Fornecimento Lic. de Uso DCM Workspace
+625;2008-06-23;VaTech Hydro;OP-833;Mário Bento;Site de Colaboração eRoom
+626;2008-06-24;Nestlé;OP-957;Bruno Rampazzi;Alocação Recurso de Desenvolvimento
+627;2008-06-26;STTAS;OP-958;Roberto Oliveira ;Digitalização de Certificados de Origem
+628;2008-07-01;GVT;OP-960;Ronaldi Cervi Neto;Digitalização e Armazenam. Docs. + SAP
+629;2008-07-10;Merial;OP-972;Michelle Gimenes;Treinamento eRoom
+630;2008-07-11;Hypermarcas;OP-880;Antonio Leopoldo;implementação DCTM + SAP
+631;2008-07-22;Vivo/EMC;OP-979;Alexandre Duarte (EMC);Projeto de WCM
+632;2008-07-23;V&M;OP-817;Janaina;Atualização de versão 
+633;2008-07-24;Claro/EC;OP-982;Alexandre Duarte(EMC);Serviços de Instalação e Treinamento
+634;2008-07-25;Lojas Sta. Terezinha;OP-851;Ana Paula da Luz Gonçalves;Captura e Gestão de Documentos
+635;2008-08-04;CTEEP;OP-947;André Luiz;Cadista
+636;2008-08-13;Oxiteno;OP-987;Eduardo R.F. Bastiglia;Proposta de Digitalização
+637;2008-08-13;Rio Tinto;OP-996;Ailton Aquino;Suporte Estendido Selens
+638;2008-08-14;VIVO/EMC;OP-997; Antonio Giacomini;Instalação Documentum e Migração D6
+639;2008-08-14;Bahia Pulp(Pec Tech);OP-998;Maria das Graças M Soledade Fontes;Aqusição de Licenças Adicionais
+640;2008-08-25;Fachini;OP-978;A informar;Licenças de Uso/Manut. e Implementação
+641;2008-08-26;Ambev;OP-962;Simone Aparecida da Silva Pinto;Gestão Documental
+642;2008-09-02;Bahia Pulp(Pech Tech);OP-1041;Maria das Graças;Desenvolvmento e Implemantação GRD
+643;2008-09-05;AASP - Associação dos Advogados de São P;OP-995;Mario Leandro da Silva ;Gestão e Publicação Conteúdo WEB
+644;2008-09-09;CELG/ACTIVE;OP-948;Adalberto de Queiroz - Active;Gestão de Documentos e Processos
+645;2008-09-11;Oxiteno;OP-1057;Paulo Estevão Fioresi;Renov  Contrato de Manutenção - 2008/09
+646;2008-05-28;Banco Safra;OP-1050;Fausto Demarchi;Extensão da Alocação de Serviços BPM
+647;2008-09-12;CSN;OP-855;Patrícia Moreira e Graziela Mattedi;Jurídico - Proposta Orientativa
+648;2008-09-17;Biolab;OP-970;Kátia Rodrigues;GED/ECM Indústria Farmacêutica
+649;2008-09-17;Good Year;OP-1062;Sérgio Souza;Digitalização de Documentos
+650;-999999999-01-01;CANCELADO;CANCELADO;CANCELADO;CANCELADO
+651;2008-09-22;Arcadis;OP-1059;Marcos Mendes - TI;Projeto de Colaboração - eRoom
+652;2008-09-22;ICEC;OP-1056;Fernando Pereira;Gestão de Docs de Engenharia (eRoom)
+653;2008-09-22;COMPACEL;OP-1063;;GED - ENGENHARIA
+654;2008-09-23;IT-One;OP-943;Eduardo Moreira Alves;Integração RSA Documentum
+655;2008-09-23;ICED;OP-1056;Fernando Pereira;GED Documentos Engenharia(SCS)
+656;2008-09-24;Banco Safra;OP-1066;Fausto Demarchi;Alocação de Recursos Adicionais BPM
+657;2008-10-02;Oxiteno;OP-1053;Ira Dia;Infra-estrutura Documentum
+658;2008-10-06;ROSSI RESIDÊNCIAL;;Reginaldo Mobrizi;GED para Contratos
+659;2008-10-07;VSB;OP-1064;Dalton Torres;Renovação de Manunteção 2008/2009
+660;2008-10-07;Volkswagen;OP-1072;José Josivaldo Feitosa Rego;Serviços de Digitalização
+661;2008-10-08;Facchini ;;Fernando Hiroshi;Proposta Digitalização
+662;2008-10-08;SEMAD/SISEMA;OP-1073;Fabiano Chaves Araujo  - Maxxdata;Solução Integrada GED + BPM
+663;2008-10-08;Metso do Brasil;OP-1075;Fernando Sakamoto;Proposta de digitalização de Microfilmes
+664;2008-10-12;CTEEP;OP-947;Wellington Marques da Silva;Digitalização e Implantação Documentum
+665;2008-10-13;Copel;OP-1074;Osvaldo;Solução de BPMS
+666;2008-10-13;Wyeth;OP-1070;Marcus Bersan;Gerenciador de Cópias Autorizadas
+667;2008-10-14;Tomé / Probank;OP-1071;Paulo César do Nascimento;Cotação Documentum (email)
+668;2008-10-15;Jaraguá Equipamentos;OP-1061;;Proposta DCTM - Corporativo  -  Serviços
+669;2008-10-15;Banco Safra;OP-1069;Marta Neves;Processo SSJ - Jurídico Safra
+670;2008-10-16;Fosfértil S/A;OP-938;;Digitalização Documentos-Eng. Processos
+671;2008-10-20;IPSOS;OP-1079;Regis Honda;Expansão Licenças eRoom
+672;2008-10-21;TishmanSpeyer;OP-1081;Joelma Ferreira da  Rocha;Suporte Técnico Estendido
+673;2008-10-21;EMC / Safra;OP-1051;Antonio Giacomini;ECM Governance and Roadmap
+674;2008-10-22;DYNAPAC Brasil;OP-1084;;Digitalização de Documentos Engenharia
+675;2008-10-23;Metagal Ind. e Com. Ltda;OP-1044;;Proposta de Digitalização de Documentos
+676;2008-10-27;Bahia Pulp;OP-1080;Maria das Graças M Soledade Fontes;Controle e gerenciamento de contratos
+677;2008-10-28;DuPont;OP-1087;Rogério Muniz de Souza Dias;GED/ECM
+678;2008-10-29;Dupont;OP-1087;Rogério Muniz de Souza Dias;Suporte Técnico Estendido Selens
+679;2008-10-31;Unibanco AIG;OP-1088;Karen Fukuda - Suprimentos;BPM Seguros
+680;2008-11-03;;;.;Cancelada
+681;2008-11-03;CBD;OP-1092;Paulo Santoro;Suporte Técnico Estendido Seles
+682;2008-11-04;Banco Toyota;OP-819;Nilton Federicci;Implantação DCTM
+683;2008-11-05;Banco Toyota;OP-819;Nilton Federicci;Suporte Técnico Estendido
+684;2008-11-05;Habibs;OP-1089;Geraldo Francisco do Espírito Santo Jr.;Captura + GED NF e Contratos - AX
+685;2008-11-05;Bahia Pulp;OP-1094;Márcio de Souza;Suporte Técnico Estendido Selns
+686;2008-11-06;CBD;OP-1097;Paulo Santoro;Treinamentos DCTM
+687;2008-11-07;Wyeth;OP-1090 (foi usado número 686); Marcus Bersan;Renovação Contr. Suporte Estendido
+688;2008-11-12;CBD;OP-1093;Paulo Santoro;Renovação Contrato Mantenção 01/2009 - 1
+689;2008-11-12;CTEEP - Transmissão Paulista;OP-1082;;"Proposta de Digitalização e ""As-Built"" "
+690;2008-11-14;CTEEP - Transmissão Paulista;OP-1098;;"Digitalização-""As-Built"" dos Funcionais"
+691;2008-11-16;EMC ;"Instala&#231;&#227;o, Treinamento e Assessoria Documentum (cliente final ainda n&#227;o revelado)";Ronaldo Stanzione;Implantação Documentum
+692;2008-11-21;Jaraguá Equipamentos;;Celso Viana;Proposta DCTM - Corporativo - Softwares
+693;2008-11-21;Dell;OP-1104;Mauro Freitas;Serviços de Implantação AX
+694;2008-11-23;Banco Safra;OP-1105;Terezinha Pereira;18 Processos
+695;2008-11-24;Serasa;OP-1106;Rodolfo Cittadino (Peninha);Alocação de Recursos
+696;2008-11-24;Serasa;OP-1107;Rodolfo Cittadino (Peninha);Suporte Técnico Estendido
+697;2008-11-24;Grupo Vila Nova;OP-1102;Carlos Costa ;Aplicação GED com AX
+698;2008-11-24;Gupo Vila Nova;OP-1103;Carlos Costa;Site de colaboração com plataforma eRoom
+699;2008-11-26;Jaraguá Equipamentos;OP-1061;Celso Vianna;Proposta de Consultoria
+700;2008-12-05;Construtora Shpaisman;;;Proposta Digitalização
+701;2008-12-05;CRF/SP;OP-1127;Rose Takada;Suporte Técnico Estendido
+702;2008-12-08;Vatech Hydro;OP-1126;Reynaldo Gonçalves Junior;Renovação do Contrato de Manutenção
+703;2008-12-09;Serasa;OP-749;Carlos André Lima;Migração de Versão Documentum
+704;2008-12-17;Tarpon Investment;OP-1145;Thiago Fraga Chagas;Site de Colaboração eRoom
+705;2008-12-22;CRF-SP;"OP-1147 - Proposta Cancelada em fun&#231;&#227;o de altera&#231;&#245;es no foco da oportunidade";Rese Takada;Serviços de Migração Documentim
+706;2008-12-23;CRF-SP Cons. Reg. de Farmácia;OP-1099;Rose Takada;Serviços de Treinamento DCTM
+707;2009-01-09;MÁQUINAS D´ANDREA;OP-1124;;Digitalização de Documentos
+708;2009-01-12;Freitas, Leite & Fagundes Advogados;OP-1125;Letícia Araujo Câmara Lopes ;Solução para ambiente de colaboração
+709;2009-01-14;BUNGE S/A;OP-1154;Aparecido Oliveira;Proposta de Digitalização - SBC
+710;2009-01-14;BUNGE S/A;OP-1155;Aparecido Oliveira;Digitalização de Documentos - CAJATÍ
+711;2009-01-16;Wyeth;OP-1161;Marcus Bersan;Fornecimento de Licenças Adicionais DCM
+712;2009-01-28;Banco Safra;OP-1148;Alexandre Carvalho;Processo de Revisão de Carteira
+713;2009-01-30;ADP Prime;OP-1165;Dora;Digitalização de Documentos
+714;2009-02-06;ATITUDE  RH;;Julio César ;Digitalização de Documentos
+715;2009-02-09;Ipsos;OP-1174;Sergio Honda;Aquisição de 50 licenças adicionais eRoo
+716;2009-02-11;Faculdades Sumaré;OP-1168;Marcelo Apti;AX + QSP
+717;2009-02-11;HP;;Alexandre;Proposta para Prestação de Serviço HP
+718;2009-02-12;Termomecânica;OP-1177;Luis Carlos Dias;Outsorucing de Impressão para Engenharia
+719;2009-02-16;CRF/SP;OP-1147;Rose Kitamura Takada;Serviços de Migração
+720;2009-02-18;Oxiteno S/A;"Servi&#231;o de outsourcing de m&#227;o obra especializada - Operador do Documentum.";Marisa Montovane;Operador do Documentum
+721;2009-02-26;Bardella Industria Mecânica;OP-1115;Décio Lopes;Digitalização Documentos de Engenharia
+722;2009-03-01;Bardella Indústria Mecânica ;OP-1185;Décio Lopes;Impressão de books 
+723;2009-03-04;Tishman Speyer do Brasil;OP-1187;Joelma Ferreira;Digitalização de Contratos
+724;2009-03-05;Hospital Santa Paula;OP-1184;Alexandre Dias Freitas;Proposta Outsourcing captura
+725;2009-03-05;Hospital Santa Paula;OP-1191;Alexandre Dias Freitas;Digitalização de documentos - Contratos
+726;2009-03-13;Volkswagen;OP-1195;Sandra Zimmermann;Proposta de Digitalização de documentos
+727;2009-03-17;Banco Safra;OP-1197;Fausto Demarchi;Suporte Técnico Estendido
+728;2009-03-25;Oxiteno;OP-1203;Marisa Padovani;Outsourcing Coordenador Documentum
+729;2009-03-25;Blausiegel;OP-1014;Regina Correa de Moraes;Gestão de Documentos da Qualidade
+730;2009-03-25;CRF-SP;OP-1127;Rose Takada;Menthoring
+731;2009-03-25;CRF-SP;OP-1204;Rose Takada;Licenças Adicionais e Captiva
+732;2009-03-26;Mácron Indústria Gráfica;OP-1201;Luiz Fernando Campanha;GED
+733;2009-04-02;Banco Safra;OP-1172;Marcelo Toniolo;BPM - Melhorias Centrais de Atendimento
+734;2009-04-02;Banco Safra;OP-1112;Wilton Menegassi;BPM - Melhorias no BI
+735;2009-04-03;Baumer;OP-1152;Régis Marcelo;Gestão Documental e Processos
+736;2009-04-08;Hospital Cruz Azul;OP-1202;Elisabete;Gerenciamento Elereônico de Documentos
+737;2009-04-16;ThyssenKrupp;OP-1216;Dorival de Souza Junior ;GED para Documentos de Engenharia
+738;2009-04-16;Coca Cola;OP-1214;Georgiana Ripper Vianna;eRoom para Departamento Jurídico
+739;2009-04-24;Hospital e Maternidade São Cristovão;OP-1180;José Paulo Soares da Silva ;GED - Prontuários e Contas Médicas
+740;2009-05-04;Oxiteno;OP-990;Iranilda Dias;Migração D6
+741;2009-05-08;Imobiliária Alteernativa;OP-1222;Cristie Oliveira;GED (AX) + Digittalização
+742;2009-05-11;Oxiteno;OP-1224;Gregório Jordão Pires da Silva ;Integração DCTM X Sharepoint
+743;2009-05-12;Wyeth;OP-1217;Marcus Bersan;Alocação de Recurso - Projeto Fusion
+744;2009-05-12;Wyeth;OP-1217;Marcus Bersan;Suporte à Migração - Projeto Fusion
+745;2009-05-18;Arvin Meritor;OP-1212;Marcos Simaika;Gestão Documental e Processos
+746;2009-05-21;Volkswagem;OP-1226;JOSE JOSIVALDO FEITOSA REGO ;Digitalização de Documentos
+747;2009-05-22;Monsanto;OP-1173;Sonia Alves;Migração para Documentum 6.5 SP2
+748;2009-05-22;Dell;OP-1228;Cárlon Halmenschlager Szymanski;Treinamento e Consultoria em Captiva
+749;2009-05-28;Alcantara Cyclone Space;OP-1232;Ossamu Matsunaga;Gerenciamento Eletrônico de Documentos
+750;2009-06-02;CBLC;OP-992;Carla Aparecida dos Santos;Solução de RM/ECM para o Centro de Docum
+751;2009-06-03;Progen;OP-1175;Edison Oliveira;Gerenciamento de Documentos Técnicos
+752;2009-06-03;VMB;OP-1230;Priscila de Jesus Papazissis Matuck;Manutenção Documentum 2009/2010
+753;2009-06-04;Oxiteno;OP-1235;Iranilda Aparecida Dias;Outsourcing de Administrador Ambiente DC
+754;2009-06-05;T-Systems;OP-1236;Sergio Savane;Instalação de Documentum na VW
+755;2009-06-08;CSN;OP-855;Ronaldo Guedes Maciel;CSN - Jurídico
+756;2009-06-15;Braskem;OP-1020;Marcia Alano e Mafalda;Memória Tecnológica
+757;2009-06-17;Pernambucanas;OP-1233;Marcelo Zanatto;Digitalização + Gestão Documental
+758;2009-06-17;Serasa;OP-1106;Marcelo Falco e Rodolfo Cittadino;Desenvolvimento WCM
+759;2009-07-02;Editora Positivo;OP-1238;Hermes Jatczak;Webpublisher
+760;2009-07-28;EMC - Petrobras;OP-1245;Jeff Quigle;Upgrade Documentum 6.5 SP2
+761;2009-08-12;Bunge;OP-1258;Aparecido Oliveira;Alocação de Plotter Océ TDS-450
+762;2009-08-13;CTEEP;OP-1110;Douglas Ferreira;Alocação de Cadistas
+763;2009-08-17;Metso;;Igor Souza;Digitalização
+764;2009-09-15;Pfizer;OP-1248;Américo Souza;Digitalização de Normas
+765;2009-09-22;Serasa;OP-1251;Luciano Mendes;Licenças de IDS (SCS) Target
+766;2009-09-23;Fidellio;OP-1252;Cecília;Proposta de Digitalização
+767;2009-09-23;Tractus;OP-1250;Raul Bromberg;Digitalização
+768;2009-09-29;Monsanto;OP-1173;Sonia Alves;Licenças de Brava
+769;2009-10-07;Serasa;OP-1254;Christian Gutierrez;Serasa Alocação de Profissional 
+770;2009-10-09;BahiaPulp;OP-1256;Marcio Souza;Contrato de Suporte Estendido
+771;2009-10-15;Gama4x4;OP-1257;Leandro Giannini;Digitalização de Catálogos
+772;2009-10-16;Quanta Geração;OP-1253;Robson Marques;GED Engenharia
+773;2009-10-21;Serasa;OP-1260;Christian Gutierrez;Alocação de Profissional
+774;2009-10-21;CRF;OP-1261;Rose Takada;Suporte Técnico
+775;2009-10-22;Bahia Pulp;OP-1255;Marcio Souza;Renovação de Manutenção 2009
+776;2009-10-22;Monsanto;OP-1173;Sonia Alves;Treinamentos
+777;2009-10-28;Avon;OP-1262;Nelson Silva;Digitalização de Plantas
+778;2009-11-16;AIPY;OP-1266;Luís Humberto Rocha Carrijo;Proposta de Digitalização
+779;2009-11-18;Andrade Gutierrez;OP-1267;Vinício Moreira e Antonio Alvarenga;Proposta Orientativa para Empreendimento
+780;2009-11-19;Serasa;OP-1107;Christian Gutierrez;Suporte Estendido
+781;2009-11-23;MRV;OP-1243;Fernanda Neiva e Magalhães;
+782;2009-11-23;PartnerVision;OP-1268;André Soares;Consultoria XSL
+783;2009-11-26;Tractus;OP-1269;Raul Bromberg;Digitalização On-SIte
+784;2009-11-27;Serasa;OP-1107;Christian Gutierrez;Suporte Estendido
+785;2009-11-30;Banco Toyota;OP-1271;Nilton Federicci;Instalação Infraestrutura Local
+786;2009-11-30;Cerqueira César Advogados;OP-1265;Simone Almeida da Silva;Digitalização de Pastas de Processos
+787;2009-11-30;Cerqueira César Advogados;OP-1265;Simone Almeida da Silva;Ambiente de Colaboração tipo DIGIBOX
+788;2009-12-02;SEBRAE-SP;OP-1272;Willian Lima Barreto;Bureau de Digitalização
+789;2009-12-09;Condomínio Portal do Morumbi;OP-1277;Allen Kazan;Proposta de Digitalização
+790;2009-12-09;Condomínio Portal do Morumbi;OP-1277;Allen Kazan;Digibox
+791;2009-12-15;SHV;OP-1278;Felipe Rollin;ECM para Serviços Compartilhados
+792;2009-12-17;Volkswagen;OP-1279;Carla Ranieri;Digitalização CTRC´s
+793;2009-12-22;Andritz (Vatech);OP-1280;Juliana Decenci;Manutenção Documentum 2010
+794;2009-12-23;CBD;OP-1281;Rodrigo Figueiredo;Manutenção Documentum 2010
+795;2010-01-19;Oliveira&Zago;OP-1282;Luís Gustavo Ocon de Oliveira;Digitalização de Processos
+796;2010-01-27;Papaiz;OP-1284;Alexandre Jarreta;Digitalização Engenharia
+797;2010-01-28;Volkswagen;OP-1279;Carla Colombini;CTRS
+798;2010-02-01;Oxiteno;OP-1287;Marisa Padovani;Outsourcing
+799;2010-02-05;Wyeth;OP-1288;Macus Bersan;Suporte Estendido 2010
+800;2010-02-09;T-Systems;OP-1286;Celso Nogueira;Suporte e Desenvolvimento Documentum
+801;2010-02-12;Banco Toyota;OP-1289;Nilton Federicci;Licenças de Brava for Documents Webtop
+802;2010-02-22;MCTEC;OP-1268;Gilberto Stella;Consultoria XSL / Arbortext
+803;2010-02-23;SHV Gas;OP-1292;Felipe Rollin;Consultoria para Especificação de Sistem
+804;2010-02-26;RPM Kinross;OP-1293;José Paulo Reis;Manutenção Documentum e Migração
+805;2010-03-02;Oxiteno;OP-933;Marisa Padovani;Suporte Estendido
+806;2010-03-04;Techint;OP-1295;Felipe Almeida;Treinamento Documentum
+807;2010-03-11;Banco Toyota;OP-1296;Nilton Federicci;Suporte Técnico Estendido Documentum
+808;2010-03-12;Bruno Industrial;OP-1297;Maria Irene Scalabrin;Digitalização de Engenharia
+809;2010-04-13;ABB;OP-1219;Edson Moscardi;Treinamentos Customizados
+810;2010-04-14;SHV Gas;OP-1302;Felipe Rollin;Suporte Estendido
+811;2010-05-03;Usiminas;OP-1305;Rodrigo Rabelo;Proposta Usiminas BPO Arquivo Técnico
+812;2010-05-04;VMB;OP-984;Adriana Reis - Compras;Suporte Estendido
+813;2010-05-04;VMB;OP-1306;Adriana Reis;Proposta de Manutenção de Software
+814;2010-05-07;VMB;OP-817;Adriana Reis;Atualização Documentum
+815;2010-05-25;VERT (ANP);OP-1307;Mario dos Santos Almeida;Migração Documentum 4 para 6.5
+816;2010-05-27;MCTEC;OP-1268;Cláudio Viveiro;Consultoria em DTD e XSL
+817;2010-05-27;Oxiteno;OP-990;Gregório Pires da Silva;Instalação e Migração
+818;2010-05-27;Oxiteno;OP-990;Gregório Pires;Assistência Técnica
+819;2010-05-28;Tecnocópias;OP-1308;Sandra Bissoni;Ambiente Arbortext
+820;2010-06-08;Sandro Pissini;OP-1303;Bruno Marquesini;Digitalização de Documentos
+821;2010-06-21;SHT - Sociedade Harmonia de Tênis;OP-1309;Renata Granadeiro;Digitalização Pastas de Sócios
+822;2010-06-22;SHT - Sociedade Harmonia de Tênis;OP-1309;Renata Granadeiro;eRoom
+823;2010-06-22;SHT - Sociedade Harmonia de Tênis;OP-1309;Renata Granadeiro;Digibox
+824;2010-06-29;FormelD;OP-1313;Jean Mies;Licenças de Arbortext Editor
+825;2010-07-09;Bureau Translations;OP-1314;Bruna;Serviços Arbortext / XML
+826;2010-07-16;Nilo Batista e Advogados Associados;OP-1317;Rafael Fagundes;Digitalização de Documentos Jurídicos
+827;2010-07-16;Nilo Batista e Advogados Associados;OP-1317;Rafael Fagundes;Ambiente de Armazenamento Digital de Doc
+828;2010-07-19;SHV;OP-1318;Aline Carvalho;Instalação Documentum
+829;2010-07-27;Camargo Rodrigues;OP-1320;André Duarte;Digitalização Documentos
+830;2010-07-27;Camargo Rodrigues;OP-1320;André Duarte;Digibox
+831;2010-08-12;Top Publishing;OP-1324;Emerson Santos Dumont;Licenças Arbortext
+832;2010-08-12;HP;OP-1326;Fernando Lemos de Mello;Instalação DCTM em Cluster eem Solaris
+833;2010-08-13;Oxiteno;OP-1329;Gregório Jordão Pires da Silva;Renovação de Manutenção 2010-2011
+834;2010-08-18;Quattor Petroquímica;OP-1321;Marcelo Egídio;Alocação de Equipamentos
+835;2010-08-18;Quattor Petroquímica;OP-1321;Marcelo Egídio;Digitalização de Documentos
+836;2010-08-18;Banco Toyota;OP-1136;Nilton Federicci;Adequação do Documentum ao NOVA ERA
+837;2010-08-20;Salusse e Marangoni;OP-1331;Cássio;Licenças de uso eRoom
+838;2010-08-20;Salusse e Marangoni;OP-1331;Cássio;Arquivística e Digitalização 
+839;2010-09-01;MCE;OP-1339;Rita Soraia;GED Orientativa
+840;2010-09-09;Habib's;OP-1330;Felipe/Márcio;SW, Implantação e Suporte Estendido
+841;2010-09-09;Habib's;OP-1330;Felipe/Márcio;Digitalização de Contratos
+842;-999999999-01-01;cancelada;cancelada;;Cancelada
+843;2010-09-14;Prosegur;OP-1322;Felippe Luiz F. Costa;Resposta à RFP - Serviços
+844;2010-09-14;Prosegur;OP-1322;Felippe Luiz F. Costa;Resposta à RFP - Software
+845;2010-09-30;Mascaro Nascimento Advogados;OP-1346;Patrícia Helena;Digitalização de Processos
+846;2010-09-30;Mascaro Nascimento Advogados;OP-1346;Patrícia Helena;Licenças eRoom
+847;2010-10-01;MCtec;OP-1353;Gilberto Stella;Licenças Arbortext Editor
+848;2010-10-01;Banco Toyota do Brasil;OP-1354;Nilton Federicci;Licenças Documentum
+849;2010-10-01;Sebrae - SP;OP-1351;Willian Barreto;Digitalização de Documentos
+850;2010-10-04;Banco Toyota do Brasil;1355;Nilton Federicci;Suporte Estendido - Recurso Alocado
+851;2010-10-04;Hospital e Maternidade Sino-Brasileiro;OP-1347;Diego Lira;Scanner + eRoom
+852;2010-10-04;Hospital e Maternidade Sino-Brasileiro;OP-1347;Diego Lira;Scanner + eRoom
+853;2010-10-11;MAN Latin America;OP-1361;Karina Ribeiro;Proposta Técnica
+854;-999999999-01-01;MAN Latin America;Cancelada;;Cancelada
+855;2010-10-19;Savoy Imobiliária;OP-1380;Marcos Ferreira;Digitalização de Desenhos
+856;2010-10-19;Tractus Consultoria;OP-1381;Mário Salles;Digitalização de Desenhos
+857;2010-10-25;SGC Consult;OP-1383;Diego da Silva;Digitalização de Documentos
+858;2010-10-27;VALE Fertilizantes;OP-1385;Hilda Marques;Digitalização de Documentos
+859;2010-11-29;Cerqueira César Sociedade de Advogados;OP-1379;Simone Almeida da Silva;Renovação eRoom
+860;2010-11-08;Habib's;OP-1330;Felipe Jorge;Implantação Documentum
+861;2010-11-16;Grupo Ultra;OP-1388;Marcos Marques;Documentum - RM
+862;2010-11-17;BM&A;OP-1391;Maria Cristina Chagas;Arquivo Virtual
+863;2010-11-22;Toron Advogados;OP-1342;Carlos Simões;Digitalização de Processos
+864;2010-11-22;Toron Advogados;OP-1342;Carlos Simões;Arquivo Virtual
+865;2010-11-24;Escritório Machado Meyer;OP-1387;Regina Céli;Digitalização de Processos
+866;2010-12-02;Oxiteno;OP-1390;Raquel Monteiro;Digitalização Engenharia
+867;2010-12-02;SHV Gas Brasil;OP-1421;Aline Carvalho;Gestão Documental
+868;2010-12-08;KPMG;OP-1418;Renata de Oliveira;Digitalização de Documentos
+869;2010-12-16;HP;OP-1326;Raul Lutfi;Instalação Documentum - T&M
+870;2010-12-17;SHV;OP-1421;Aline Carvalho;Política de Gestão Documental
+871;2010-12-22;NexTrans;OP-1423;Grasielle Costa;Digitalização de Documentos
+872;2010-12-22;NexTrans;OP-1423;Grasielle Costa;Ambiente de Colaboração
+873;2010-12-29;Bruno Industrial;OP-1425;Irene Scalabrin;Ambiente de Colaboração
+874;2011-01-03;SHV Gas Brasil;OP-1424;Aline Carvalho e Felipe Rolin;Implantação Recebimento Fiscal
+875;2011-01-12;NexTrans;OP-1423;Grasielle Costa;Licenças eRoom
+876;2011-01-17;Mascaro Nascimento;;Patrícia Helena;Digitalização de Documentos
+877;2011-01-18;Mascaro Nascimento;;Patrícia Helena;Licenças eRoom
+878;2011-01-20;Gauss Consulting;OP-1428;Anderson;Ambiente de Colaboração
+879;2011-01-20;Gauss Consulting;OP-1428;Anderson;eRoom
+880;2011-01-21;SMS;;Bianca;Outsourcing para Digitalização
+881;2011-01-26;SHV Gas;OP-1427;José Cláudio e Nélio;Manutenção Brava
+882;2011-02-01;SHV Gas;OP-1433;Anselmo Guedes;Contratos - Integração Sales Force
+883;2011-02-01;SHV Gas;OP-1435;Aline Carvalho;Digitalização de Contratos
+884;2011-02-02;Tractus;;Mário Salles;Digitalização de Documentos
+885;2011-02-03;AxisMed;OP-1434;André Falaschi;Digitalização de Documentos
+886;2011-02-03;AxisMed;OP-1434;André Falaschi;Ambiente de Colaboração
+887;2011-02-03;AxisMed;OP-1434;André Falaschi;Guarda Federada
+888;2011-02-07;Pfizer;OP-1438;Marcus Bersan;Suporte Estendido
+889;2011-02-10;Star Company;OP-1439;Angelo Brito;Digitalização de Plantas
+890;2011-02-10;Gafisa;OP-1352;Carlos Henrique;Consultoria
+891;2011-02-24;Techint Engenharia;OP-1441;Uelinton;Implantação Documentum
+892;2011-03-01;Sindetur - SP;OP-1445;André Lima;Digitalização de Revistas
+893;2011-03-01;Sindetur - SP;OP-1445;André Lima;Arquivo Virtual
+894;2011-03-03;Laboral;OP-1442;Andreys Stareika;Digitalização de Documentos
+895;2011-03-03;Laboral;OP-1442;Andreys Stareika;Ambiente de Colaboração
+896;2011-03-03;VolksWagen;OP-1443;Karina Ribeiro;Rasterização e Indexação
+897;2011-03-16;Siqueira Neto Advogados Associados;OP-1450;Alessandra Deboni;BPO - Digitalização de Documentos
+898;2011-03-16;Siqueira Neto Advogados Associados;OP-1450;Alessandra Deboni;Digitalização de Documentos
+899;2011-03-17;Siqueira Neto Advogados Associados;OP-1450;Alessandra Deboni;Separação de Peças(Jurid.) e Bookmarks
+900;2011-03-18;Banco Toyota;OP-1452;Nilton Federicci;Suporte Estendido 2011
+901;2011-03-22;Braskem;OP-1449;José Pio;Cópias e Impressões
+902;2011-03-24;DPI Soluções;OP-1453;Wellington;Digitalização de Documentos
+903;2011-04-05;Serasa;OP-1456;Ana Conti;Desenvolvimento XSLT
+904;2011-04-06;Bifarma;OP-1451;Sueli;Digitalização de Documentos
+905;2011-04-06;Bifarma;OP-1451;Sueli;BPO - Digitalização de Documentos
+906;2011-04-06;Bifarma;OP-1451;Sueli;Licenças eRoom
+907;2011-04-06;Bifarma;OP-1451;Sueli;Ambiente Virtual
+908;2011-04-07;Bifarma;OP-1451;Sueli;BPO Digitalização
+909;2011-04-12;Imobiliária Sorriso;OP-1446;Ely;Digitalização de Documentos
+910;2011-04-12;Castellar Engenharia;OP-1455;Marinella Leyser;Arquivística, Digitalização e eRoom
+911;2011-04-27;Geomecânica;OP-1459;David Rodin;Ambiente de Colaboração
+912;2011-04-28;Geomecânica;OP-1459;Davis Rodin;Implantação eRoom
+913;2011-04-29;BM&A Advogados ;OP-1391;Maria Cristina;Guarda Física 
+914;2011-05-06;Siqueira Neto Advogados;OP-1450;Marcio Ferezin;DigiBox
+915;2011-05-13;Bulltick;OP-1462;José Rivelino;DigiDEPOT
+916;2011-05-15;Liberty Seguros;OP-1448;Edilaine e Adriana;Desenvolvimento Documentum
+917;2011-05-17;Laboral;;Andreys;BPO
+918;2011-05-17;Whirlpool;OP-1440;Roselina Guido;BPO
+919;2011-05-17;Whirlpool;OP-1440;Roselina Guido;Consultoria e BPO
+920;2011-05-17;Whirlpool;OP-1440;Roselina Guido;Consultoria Gestão Documental
+921;2011-05-18;Bruno Industrial;OP-1466;Valderi Moreira;Digitalização de Engenharia
+922;2011-05-18;Whirlpool;OP-1440;Roselina Guido;Outsourcing para Expurgo de Documentos
+923;2011-05-19;Laboral ;OP-1465;Andreys Stareika;Guarda Física de Documentos
+924;2011-05-19;Liberty Seguros;OP-1467;Adriana Maia;Suporte Estendido
+925;2011-05-20;Bahia Pulp;OP-1460;Márcio Souza;Suporte Estendido 2011
+926;2011-05-23;Whirlpool;OP-1469;Roselina Guido;eRoom
+927;2011-05-23;Whirlpool;OP-1469;Roselina Guido;DigiBox
+928;2011-05-26;West Shopping;;Carolina Oliveira;Digitalização de Documentos
+929;2011-05-30;Liberty Seguros;OP-1448;Adriana Maia;Proposta Implantação
+930;2011-05-30;SAP;OP-1471;Anne Orlandim;Consultoria Gestão Documental
+931;2011-05-30;SAP;OP-1471;Anne Olandim;Alocação de Equipe
+932;2011-05-30;SAP;OP-1471;Anne Olandim;Digibox
+933;2011-05-30;SAP;OP-1471;Anne Olandim;Alocação de Arquivista
+934;-999999999-01-01;CANCELADO;CANCELADO;CANCELADO;CANCELADO
+935;-999999999-01-01;CANCELADO;CANCELADO;CANCELADO;CANCELADO
+936;2011-05-31;Liberty Seguros;OP-1467;Adriana Maia;Sustentação - Alocação de Recurso DCTM
+937;2011-06-03;Liberty Seguros;OP-1448;Adriana Maia;Implantação Documentum - Preço Fechado
+938;2011-06-03;Liberty Seguros;OP-1448;Adriana Maia;Implantação Documentum Hh
+939;2011-06-06;Papaiz;OP-1488;Eduardo Lulai;Digitalização de Documentos da Diretoria
+940;2011-06-06;Andritz;OP-1490;Renan Maie;Suporte Estendido
+941;2011-06-06;SHV Gas;OP-1302;Ana Gonçalves;Suporte Técnico - Sustentação
+942;2011-06-17;Serasa;OP-1492;Anderson Urbanjos;Suporte Estendido
+943;2011-06-20;Serasa;OP-1491;Anderson Urbanjos;Proposta de Suporte Avulso
+944;2011-06-29;Shpaisman;OP-1495;Vera;Proposta de DigiBOX
+945;2011-06-29;Construtora Shpaisman;OP-1496;Vera;Digitalização de Documentos de Engenhari
+946;2011-07-11;CTEEP;OP-1229;Roberto da Silva;Migração Novation
+947;2011-07-19;Volkswagen;OP-1498;Otávio Martins;Digitalização de Fichas de Conformidade
+948;2011-08-03;Advocacia Waltenberg;OP-1500;Miriam Monteiro;Digitalização de Documentos
+949;2011-08-03;Advocacia Waltenberg;OP-1500;Miriam Monteiro;Digibox
+950;2011-08-08;Glaxo;OP-1501;Silas Henrique Duarte;Serviços Documentum
+951;2011-08-08;Andritz;OP-1280;Juliana e Renan;Manutenção Documentum
+952;2011-08-12;Whirlpool;OP-1502;Candice Schneider;Serviços de Gestão Documental
+953;2011-08-18;Liberty Seguros;OP-1505;Cristine Natsue Randi  e Edilaine;Proposta de Especificação
+954;2011-08-26;Votorantim;OP-1508;Marcos Rovani;Consultoria xCP
+955;2011-09-05;GPA;OP-1514;Edson Amaral;Suporte Avulso
+956;2011-09-05;Votorantim;OP-1515;Marcos Rovani;Desenvolvimento xCP
+957;2011-09-09;Banco Safra;OP-1513;Christiane Moraes;BPM Central de Atendimento
+958;2011-09-26;Sanofis Aventis;OP-1516;Tiago Giorgi;Licenças Documentum
+959;2011-10-03;Andritz;OP-1490;Renan Maie;Pacote de horas técnicas
+960;2011-10-11;PGE;OP-1518;Renato Duarte;Certificados
+961;2011-10-13;VW;OP-1511;Otávio Martins;Digitalização VW Carnaubeiras
+962;2011-10-13;MAN;OP-1511;Otávio martins;Digitalização e Armazenamento VW MAN
+963;2011-10-20;Hilti;OP-1520;Patrícia Baranski;Guarda Federada
+964;2011-10-20;Hilti;OP-1520;Patrícia Baranski;Digitalização de Documentos
+965;2011-10-25;CEMEAP;OP-1521;Priscila Andrade;DigiSCAN
+966;2011-10-25;CEMEAP;OP-1521;Priscila Andrade;DigiBOX
+967;2011-10-26;GVRisco;OP-1522;Elaine Costa;DigiBOX
+968;2011-10-26;VMB;OP-1523;Adriana Reis;Manutenção 2011/2012
+969;2011-10-26;VMB;OP-1523;Adriana Reis;Suporte Estendido 2011/2012
+970;2011-10-25;CEMEAP;OP-1521;Priscila Andrade;DigiDEPOT
+971;2011-11-10;Sociedade Harmonia de Tênis;OP-1525;Renata Granadeiro;Digitalização de Fotos
+972;2011-11-22;Itaú BBA;OP-1526;Vanessa Monteiro;Digitalização de pastas Jurídico
+973;2011-11-25;BahiaPulp;OP-1460;Marcio Sousa e Frederico;Horas Técnicas
+974;2011-11-25;GPA;OP-1527;Danilo Almeida;Renovação de Manutenção
+975;2011-12-08;Gebrim Advogados Associados;OP-1528;Danilo Uler;Digitalização de pastas Jurídico
+976;2011-12-12;Oxiteno;OP-1529 ;Fernanda Cristina Esper Pulcinelli;Serviços Upgrade xPlor
+977;2011-12-13;BahiaPulp;OP-1530;Marcio;Manutenção Documentum
+978;2011-12-22;CTEEP;OP-1531;Fernando Pereira da Silva;Digitalização Casa Verde
+979;2012-01-12;CTEEP;OP-1524;Thiago Henrique dos Santos;Cadistas
+980;2012-01-18;YB Music;OP-1534;Allana Morais;Coleta de Dados a partir de Digitalizaçã
+981;2012-01-31;Restauranteweb;OP-1535;Marco Antonio;Digitação de Cardápios
+982;2012-02-07;Papaiz;OP-1536;Eduardo Lulai;Digitalização
+983;2012-02-08;Savoy;OP-1537;Domingos;Digitalização de Desenhos
+984;2012-02-15;Liberty Seguros;OP-1538;Edilaine;Sustentação do Property
+985;2012-02-27;CTEEP;OP-1539;Fernando Cres;Desenhos Civil Cabreúva
+986;2012-02-28;CTEEP;OP-1540;Marco Gama;Guias de Manutenção
+987;2012-03-02;HP;OP-1509;Ricardo Costa;Upgrade Documentum Solaris
+988;2012-03-05;CTEEP;OP-1524;Marco Camelo Gama;Cadistas 
+989;2012-03-12;Mesquita Barros Advogados;OP-1542;Carlos Dariani;Digitalização Pastas de Processos
+990;2012-03-12;Gilberto Saba;OP-1543;Gilberto Saba;Digitalização de Prontuários
+991;2012-03-16;VMB;OP-1541;Gláucia Carmo;Licenças Documentum
+992;2012-03-21;Mesquita Barros;OP-1544;Carlos Dariani;DigiBOX
+993;2012-03-30;Telar Engenharia;OP-1545;José Luis;Digitalização de Documentos Administrati
+994;2012-04-09;Editora Ave Maria;OP-1546;Carol Rodrigues;Digitalização de Revistas
+995;2012-04-09;GPA;OP-1092;Felipe Franco Bazani;Sustentação de Documentum
+996;2012-04-09;GPA;OP-1527;Felipe Franco Bazani;Manutenção Documentum
+997;2012-04-27;Cãmara Sociedade de Advogados;OP-1548;Andre Verissimo da Costa;Digitalização de Processos
+998;2012-05-02;Banco Toyota;OP-1549;Nilton Federicci;Suporte Estendido 2012
+999;2012-05-08;Lefosse Linklaters;OP-1550;Tatiane Ferreti e Alexandre Dinamarco;Licenças Documentum
+1000;2012-05-08;Lefosse Linklaters;OP-1550;Tatiane Ferreti e Alexandre Dinamarco;Serviços de implantação DCTM
+1001;2012-05-16;Danemann Siemsem;OP-1547;Marcos Fonseca Braga / Leandro Souza;Gestão Documental
+1002;2012-05-23; Johnson & Johnson ;OP-1551;Michael Lima;Suporte a Ambiente Documentum
+1003;2012-05-25;Banco de Brasilia;OP-1552;Thiago Rocha Ribeiro;BPO Compensação de Cheques
+1004;2012-05-25;Liberty Seguros;OP-1553;Joel Santiago;Suporte Avulso
+1005;2012-06-04;Lefosse Linklaters;OP-1550;;GED SaaS
+1006;2012-06-05;Mitsubishi;OP-1554;Wilson Oliveira;Digibox
+1007;2012-06-13;Auxiliadora Predial;OP-1558;Fabrícia Almeida;Digitalização de pastas de Contratos
+1008;2012-06-20;Marelli;OP-1559;Mauro Conceição;Digitalização de Memória Técnica
+1009;2012-06-25;Braskem;OP-1560;Claudia Castro Lima;Digitalização de Prontuários de Colabora
+1010;2012-07-19;Mixer;OP-1562;Eder Machado de Oliveira;Digitalização de Documentos Jurídicos
+1011;2012-07-24;Edna Advogados;OP-1563;Patricia Gonçalves;Digitalização de Pastas de Processos
+1012;2012-07-24;Edna Advogados;OP-1563;Patricia Gonçalves;Digibox
+1013;2012-08-01;Vilhena Silva Advogados;OP-1565;Priscila Mingues;DigiScan
+1014;2012-08-01;Vilhena Silva Advogados;OP-1564;Priscila Mingues;DigiBOX
+1015;2012-08-06;AON Holding;OP-1566;Laurenzi Neimara Vilela;Consultoria GED e Captura
+1016;2012-08-11;Pomini Advogados;OP-1568;Eloisa Brene;Digitalização de Pastas de Processos
+1017;2012-08-11;Pomini Advogados;OP-1568;Eloisa Brene;Digibox
+1018;2012-08-11;Davis Genoino Sociedade de Advogados;OP-1567;Júlia Brandão;Digitalização de Documentos
+1019;2012-08-11;Davis Genoino Sociedade de Advogados;OP-1567;Júlia Brandão;DigiBox
+1020;2012-08-14;BL Private;OP-1574;Paula Pearson;Digitalização de Documentos
+1021;2012-08-14;BL Private;OP-1573;Paula Pearson;DigiBOX
+1022;2012-08-22;Votorantim;OP-1575;Fernando Cervantes;Alocação de Recurso DCTM / xCP
+1023;2012-08-24;VMB;OP-1576;Thais Nunes Sabará;Renovação Manutenção 2012 / 2013
+1024;2012-09-17;Advocacia Waltenberg;OP-1579;Miriam;DigiDEPOT
+1025;2012-09-18;Magneti Marelli COFAP;OP-1580;Thais Mendes;Criação de Bookmarks
+1026;2012-09-20;Ilha Azul;OP-1581;Marcia Nunes;DigiSCAN
+1027;2012-09-20;Ilha Azul;OP-1581;Marcia Nunes;DigiDEPOT
+1028;2012-09-20;Ilha Azul;OP-1581;Marcia Nunes;DigiBOX
+1029;2012-09-24;Ilha Azul;OP-1581;Marcia Nunes;Microfilmagem
+1030;2012-09-24;GPA;OP-1582;Renata Pires;Suporte Avulso
+1031;-999999999-01-01;Cancelada;;Cancelada;Cancelada
+1032;2012-09-25;RPM - Kinross;OP-1583;Lucas Piau;Exportação de Documentos
+1033;2012-10-02;Magneti Marelli COFAP;OP-1585;Mauro Conceição;Consultoria em Gestão Documental
+1034;2012-10-09;Indra;OP-1586;Fabio Fagundes;Alocação de Recursos
+1035;2012-10-10;Banco Toyota;OP-1587;Helena Mizioka;Conferência de Contratos
+1036;2012-10-15;Mascaro Nascimento;OP-1588;Ana Karina;Captura de Processos no Fórum
+1037;2012-10-19;Grupo Meta;OP-1589;Tiago Graeff;Consultoria ECM & BPM
+1038;2012-10-31;Braskem;OP-1590;Cláudia Marques de Castro Lima;Alocação de equipe de arquivística
+1039;2012-12-11;Hospital Samaritano;OP-1591;Juliana Clemente;Organização Física de Prontuários
+1040;2012-12-11;Hospital Samaritano;OP-1591;Juliana Clemente;Digitalização de Prontuários
+1041;2012-12-11;Hospital Samaritano;OP-1591;Juliana Clemente;DigiBox
+1042;2012-12-11;Hospital Samaritano;OP-1591;Juliana Clemente;DigiDepot
+1043;2012-12-11;Hospital Samaritano;OP-1591;Juliana Clemente;Gestão do Acervo do RH
+1044;2012-12-19;Liberty Seguros;OP-1592;Edilaine Pereira;Serviços Técnicos Documentum
+1045;2013-01-22;HRF;OP-1593;Ricardo Romano;DigiDepot
+1046;2013-01-22;HRF;OP-1593;Ricardo Romano;DigiBox
+1047;2013-01-22;HFR;OP-1593;Ricardo Romano;Digitalização de Processos
+1048;2013-02-07;Serasa;OP-1594;Christian Gutierrez;Suporte Avulso
+1049;2013-02-26;VMB;OP-1599;Thais Sabará;Media Center
+1050;2013-03-01;Mitsubishi Motor;OP-1596;José Carlos Goulart;Renovação Digibox
+1051;2013-03-05;Pessoa e Freire;OP-1600;Lorena Lima;DigiSCAN
+1052;2013-03-05;Pessoa e Freire;OP-1600;Lorena Lima;DigiBOX
+1053;2013-03-05;Pessoa e Freire;OP-1600;Lorena Lima;DigiDEPOT
+1054;2013-03-05;Planet Girls;OP-1601;Juliana Evelin;DigiBOX
+1055;2013-03-08;MoveMais;OP-1602;Luis Endo;DigiBOX
+1056;2013-03-08;MoveMais;OP-1602;Luis Endo;DigiDEPOT
+1057;2013-03-20;Indra;OP-1603;Fabio Fagundes;Migração Mapfre (complemento)
+1058;2013-03-25;Banco Toyota;OP-1604;Nilton Federicci;Suporte Estendido 2013
+1059;2013-01-22;HFR;OP-1609;Marcos de Oliveira Junior;Digitalização de Contratos
+1060;2013-04-04;Hollbras;OP-1611;Reginaldo Alves;Digitalização de DataBooks
+1061;2013-04-11;Liberty Seguros;OP-1606;Cristine Randi;Instalação DCTM Kansas
+1062;2013-04-17;UNIPAC;OP-1613;Humberto Fujita;Proposta de Software OT
+1063;2013-04-17;UNIPAC;OP-1613;Humberto Fujita;Proposta de Serviços de Implantação OT
+1064;2013-04-18;Finocchio & Ustra Sociedade de Advogados;OP-1614;Josi Oliveira;DigiSCAN
+1065;2013-04-18;Finocchio & Ustra Sociedade de Advogados;OP-1614;Josi Oliveira;DigiBOX
+1066;2013-04-18;Finocchio & Ustra Sociedade de Advogados;OP-1614;Josi Oliveira;DigiDEPOT
+1067;2013-04-17;UNIPAC;OP-1613;Humberto Fujita;Proposta de Sustentação
+1068;2013-05-09;Braskem;OP-1616;Beatrix Gussonato Gabrielli;DigiScan - Memória Tecnológica
+1069;2013-05-09;Naturiche;OP-1617;Maria Lopes;DigiSCAN
+1070;2013-05-09;Naturiche;OP-1617;Maria Lopes;DigiBOX
+1071;2013-05-09;Naturiche;OP-1617;Maria Lopes;DigiDEPOT
+1072;2013-05-09;e-Arquivo;OP-1618;Suze Darley;DigiBOX
+1073;2013-05-20;CCDI;OP-1615;Maristela dos Santos Souza;DigiSCAN
+1074;2013-05-20;CCDI;OP-1615;Maristela Souza;DigiBOX
+1075;2013-05-20;TO Serviços;OP-1619;Celina Oliveira;DigiBOX
+1076;2013-05-24;Mesquita Barros;OP-1620;Nelson Batista;DigiDEPOT
+1077;2013-06-03;Hospital Cruz Azul;OP-1202;Elisabete Pontes;DigiDEPOT
+1078;2013-06-03;Hospital Cruz Azul;OP-1202;Elisabete Pontes;DigiSCAN
+1079;2013-06-14;MAN;OP-1621;Renato Moura;Digitalização Acervo Histórico MAN
+1080;2013-06-17;Monsanto;OP-1624;Camila Laporte;Organização e Check-list de Prontuários
+1081;2013-06-17;Monsanto;OP-1624;Camila Laporte;DigiSCAN
+1082;2013-06-17;Monsanto;OP-1624;Camila Laporte;DigiBOX
+1083;2013-06-19;TFS Advogados;OP-1584;Marcelo Pinheiro;DigiSCAN
+1084;2013-06-19;TFS Advogados;OP-1584;Marcelo Pinheiro;DigiBOX
+1085;2013-06-19;TR Advogados;OP-1625;Marcelo Pinheiro;DigiSCAN
+1086;2013-06-19;TR Advogados;OP-1625;Marcelo Pinheiro;DigiBOX
+1087;2013-07-03;Indra;OP-1628;Rogério Cruz;Alocação de Profissional DCTM
+1088;2013-07-11;Pacheco Serviços Administrativos;OP-1629;André Pacheco;DigiBOX
+1089;2013-07-18;AMROP-PMC;OP-1630;Gerson Fregoneze;DigiSCAN
+1090;2013-07-18;AMROP-PMC;OP-1630;Gerson Fregoneze;DigiBOX
+1091;2013-06-19;Rui Coppola Advogados;OP-1631;Ruy Coppola;DigiSCAN
+1092;2013-06-19;Ruy Coppola Advogados;OP-1631;Ruy Coppola;DigiBOX
+1093;2013-07-18;VINICIUS- USA-BH;OP-1632;Vinícius Mendonça;DigiBOX
+1094;2013-07-18;VINICIUS- USA-BH;OP-1632;Vinicius Mendonça;DigiSCAN
+1095;2013-07-25;Amrop PMC;OP-1630;Gerson Fregonese;"DigiSCAN ""in hose"""
+1096;2013-07-25;Shopping ABC - BRMALLS;OP-1633;Regina Melo;DigiBOX
+1097;2013-07-25;Shopping ABC - BRMALLS;OP-1633;Regina Melo;DigiSCAN
+1098;2013-07-25;Shopping ABC - BRMALLS;OP-1633;Regina Melo;DigiDEPOT
+1099;2013-07-25;Shopping ABC - BRMALLS;OP-1633;Regina Melo;Arquivística - Organização de Documentos
+1100;2013-01-22;HRF;OP-1634;Rodrigo;DigiBox
+1101;2013-07-25;MoveMais;OP-1602;Luis Otavio Rodeguero;DigiSCAN
+1102;2013-08-15;WorkAble;OP-1635;Suelen Souza;DigiSCAN
+1103;2013-08-15;WorkAble;OP-1635;Suelen Souza;DigiBOX
+1104;2013-08-29;Giampaulo Sarro e Advogados Associados;OP-1636;Tobias;DigiSCAN
+1105;2013-09-06;GoodYear;OP-1637;Thais Marques;DigiDEPOT
+1106;2013-09-11;Zpersonallite;OP-1638;Claudia;DigiSCAN
+1107;2013-09-13;Ruy Coppola Advogados;OP-1631;Ruy Coppola;DigiDepot
+1108;2013-09-13;Rolim e Rosa Advogados;OP-1639;Lucas Rosa;DigiSCAN
+1109;2013-09-17;Avalon Consulting;OP-1641;José Alipio de Barros;DigiSCAN
+1110;2013-09-17;Gomestec;OP-1640;Marcelo Gomes;DigiBOX
+1111;2013-09-18;Durr;OP-1642;Alexandre Cruz;DigiSCAN - Prontuários
+1112;2013-09-18;Durr;OP-1642;Alexandre Cruz;DigiBox
+1113;2013-09-18;Durr;OP-1642;Alexandre Cruz;DigiArq - Org. Física de Prontuários
+1114;2013-09-23;Escoteiros do Brasil;OP-1645;Davi Marcel Fontes;DigiSCAN
+1115;2013-09-23;Escoteiros do Brasil;OP-1645;Davi Marcel Fontes;DigiBOX
+1116;2013-09-23;Bahia Pulp - BSC;OP-1646;Lucas Araújo;Serviços Documentum
+1117;2013-09-23;Dionízio Contabilidade;OP-1647;Heber Dionízio de Oliveira;DigiDEPOT
+1118;2013-09-23;Dionízio Contabilidade;OP-1647;Heber Dionízio de Oliveira;DigiBOX
+1119;2013-09-23;Dionízio Contabilidade;OP-1647;Heber Dionízio de Oliveira;DigiSCAN
+1120;2013-10-02;FERTIPAR Bandeirantes;OP-1648;Thuanny Rocha Sepúlvida;DigiSCAN
+1121;2013-10-30;FERTIPAR Bandeirantes;OP-1648;Thuanny Rocha Sepúlvida;DigiBOX
+1122;2013-09-23;Thuanny Rocha Sepúlvida;OP-1648;FERTIPAR Bandeirantes;DigiDEPOT
+1123;2013-10-03;Excelent Administradora de Condomínios;OP-1649;Gláucia;DigiSCAN
+1124;2013-10-10;Siqueira Neto;OP-1450;Alessandra Deboni;DigiBOX
+1125;2013-10-10;Siqueira Neto Advogados;OP-1450;Alessandra Deboni;DigiSCAN
+1126;2013-10-11;Firmenich;OP-1650;Aryanne Santos;DigiScan
+1127;2013-10-11;Firmenich;OP-1650;Aryanne Santos;DigiBox
+1128;2013-10-11;Firmenich;OP-1650;Aryanne Santos;DigiDepot
+1129;2013-10-11;Firmenich;OP-1650;Aryanne Santos;Gestão do Acervo do RH
+1130;2013-10-15;Indra;;Rogério Gomes da Cruz;Demanda Mapfre 17929001 (contas a pagar)
+1131;2013-10-18;FREGNI-LOPES da CRUZ;OP-1652;Mariana Lopes da Cruz;DigiBOX
+1132;2013-10-18;FREGNI-LOPES da CRUZ;OP-1652;Mariana Lopes da Cruz;DigiSCAN
+1133;2013-10-18;Lello Administração de Associações;OP-1653;Marcelo Cordeiro;DigiSCAN
+1134;2013-10-18;Lello Administração de Associações;OP-1653;Marcelo Cordeiro;DigiBOX
+1135;2013-10-18;Drogarias Campeã;OP-1654;Raphael (TI);DigiBOX
+1136;2013-10-18;Drogarias Campeã;OP-1654;raphael (TI);DigiSCAN
+1137;2013-10-22;Centurião;OP-1656;Sandro Marcello;DigiSCAN
+1138;2013-10-22;Centurião;OP-1656;Sandro Marcello;DigiBOX
+1139;2013-10-29;Diretriz Assessoria;OP-1657;Laressa Rolemberg Scaranni;DigiScan
+1140;2013-10-29;Diretriz Assessoria;OP-1657;Laressa Rolemberg Scaranni;DigiBOX
+1141;2013-10-31;Votorantim Metais;OP-1658;Karina dos Santos Barbosa;DigiBox
+1142;2013-11-01;Papel Print;OP-1659;Dante;DigiBOX
+1143;2013-11-01;Papel Print;OP-1659;Dante;DigiScan
+1144;2013-11-01;InfoSERVER;OP-1660;Cristiane Ap. Borges de Oliveira;InfoServer - DigiDEPOT
+1145;2013-11-05;RM Infraestrutura;OP-1662;Elierto Junior;Gestão do Acervo do RH
+1146;2013-11-05;RM Infraestrutura;OP-1662;Elierto Junior;DigiDepot
+1147;2013-11-05;RM Infraestrutura;OP-1662;Elierto Junior;DigiBox
+1148;2013-11-05;RM Infraestrutura;OP-1662;Elierto Junior;DigiScan
+1149;2013-11-07;Fras-le S.A.;OP-1664;Andre Gutier;DigiScan
+1150;2013-11-07;Fras-le S.A.;OP-1664;Andre Gutier;DigiBox
+1151;2013-11-08;Gold Med;OP-1665;Aroldo Oliveira;DigiBox
+1152;2013-11-13;Mundo Mágico;OP-1666;Pedro Concy;DigiScan
+1153;2013-11-14;BMI;OP-1667;Flávio Richieri;DigiBox
+1154;2013-12-09;MANSERV;http://goo.gl/l73CpQ ;Rubens Hiroshi;DigiScan
+1155;2013-12-09;MANSERV;http://goo.gl/l73CpQ;Rubens Hiroshi;DigiBox
+1156;2013-12-16;MMC-Lavras;http://goo.gl/YnWMce;John;DigiScan
+1157;2013-12-16;MMC-Lavras;http://goo.gl/YnWMce;John;DigiBox
+1158;2013-12-17;MMC-Lavras;http://goo.gl/YnWMce;John;DigiDepot
+1159;2014-01-14;Votorantim;OP-1671;Fernando Cervantes;Sustentação Documentum
+1160;2014-02-06;Stussi Neves Advogados;OP-1672;Washington;DigiBox Básico
+1161;2014-02-06;Stussi Neves Advogados;OP-1672;Washington;DigiBox on primeses
+1162;2014-02-19;Banco Toyota;;Nilton Federicci;Suporte Técnico Estendido 2014
+1163;2014-03-10;Santos Brasil;OP-1674;Marcos de Santis;DigiBOX
+1164;2014-03-10;Santos Brasil;OP-1674;Marcos de Santis;DigiScan
+1165;2014-03-27;Braskem;OP-1675;Iamy;DigiScan - RH Braskem
+1166;2014-04-03;BFC Law Office;OP-1676;Vanessa;DigiScan
+1167;2014-04-03;BFC Law Office;OP-1676;Vanessa;DigiBox
+1168;2014-04-03;BFC Law Office;OP-1676;Vanessa;Digidepot
+1169;2014-04-11;Volkswagen - MAN;OP-1677;Karina Ribeiro;Digitalização e Guarda
+1170;2014-04-16;Datasolution;OP-1678;Márcio Gatto;DigiScan
+1171;2014-04-16;Datasolution;OP-1678;Márcio Gatto;DigiBox
+1172;2014-05-12;CTEEP;OP-1679;Douglas Ferreira;Cadistas
+1173;2014-05-28;Papaiz;OP-1680;Thais Souza;Digitalização
+1174;2014-05-28;ELETEM;OP-1681;Luis Felipe Ribeiro;"digiBox - ""on Premises"""
+1175;2014-05-28;ELETEM;OP-1681;Luis Felipe Ribeiro;"digiBox - ""Cloud"""
+1176;2014-05-28;ELETEM;OP-1682;Laudemir Landim;digiSCAN
+1177;2014-05-28;ELETEM;OP-1682;Laudemir Landim;digiDEPOT
+1178;2014-06-03;Drava Metais;OP-1684;Jô Nascimento;digiSCAN
+1179;2014-06-09;Bruno Industrial;OP-1466;José Bugança;Digitalização de Desenhos
+1180;2014-06-27;Bricon;OP-1686;André Anhas;DigiScan
+1181;2014-06-27;GPA;OP-1687;Ademir Araújo;Suporte Avulso
+1182;2014-06-27;GPA;OP-1688;Ademir Araújo;Serviços de Sustentação DCTM
+1183;2014-07-21;Bricon;OP-1689;Marcelo Naufal;Serviço de Suporte ARSESP
+1184;2014-07-22;Bricon;OP-1686;Marcelo Naufal;DigiScan - Fase 1
+1185;2014-07-31;Vivante;OP-1690;Davi Bergamin;"digiBox - ""Prontuário Eletrônico"""
+1186;2014-07-31;Vivante;OP-1690;Davi Bergamin;digiScan - Prontuário Eletrônico
+1187;2014-08-07;Indra;OP-1691;Rogério Gomes da Cruz;Serviços Documentum
+1188;2014-08-14;Ultragaz;OP-1692;Marcello Gelesov;Consultoria Processos e ECM
+1189;2014-08-21;Prefeitura Municipal de Ilha Comprida;OP-1693;Marcelo Cavalcanti;Cartão Social
+1190;2014-09-05;CARESE;OP-1695;Jessika Campos;digiSCAN - Fichas de Conformidade
+1191;2014-09-05;CARESE;OP-1695;Jessika Campos;digiBOX
+1192;2014-12-02;CTEEP;OP-1696;Marcio Dagoberto Galhego;"digiBox - ""on Premises"""
+1193;2014-12-02;CTEEP;OP-1696;Marcio Dagoberto Galhego;"digiBox - ""Cloud"""
+1194;2014-12-02;CTEEP;OP-1696;Marcio Dagoberto Galhego;"DigiSCAN ""in hose"""
+1195;2015-04-08;CTEEP;OP-1698;Douglas Ferreira;Elaboração de Desenhos
+1196;2015-07-01;Braskem;OP-1674;Camila Barros Guimarães da Motta;DigiScan
+1197;2015-07-01;Meloni Advogados;OP-1674;Reinaldo;DigiScan
+1198;2011-10-13;MAN;OP-1511;Otávio martins;Digitalização e Armazenamento VW MAN
+1199;2011-10-13;VW;OP-1511;Otávio Martins;Digitalização VW Carnaubeiras
+1200;2015-08-20;Braskem;;Beatrix Gabrielli;Digitalização de Memória Tecnológica
+1201;2015-12-03;SAP do Brasil;OP-1705;Daniela Cotting;Opentext ECM e BPM
+1202;2015-12-21;Indra;OP-1707;Wellington Silva Bastos;Treinamentos Documentum
+1203;2016-01-11;Barcellos Tucunduva Advogados;OP-1708;Kátia Gutierres;Digitalização de Documentos de Processos
+1204;2016-03-17;CGI - Comgás;OP-1709;Marco Afonso;Sustentação Documentum
+1205;2016-04-04;G&E - VERT;OP-1710;Pedro Novaes Oliveira;Databooks
+1206;2016-04-07;IGCp;OP-1711;Juliana Lobo;"digiBox - ""Cloud"""
+1207;2016-04-26;TRANJAN;OP-1690;Kemelly Silva;digiScan - Prontuário Eletrônico
+1208;2016-04-26;TRANJAN;OP-1690;Kemelly Silva;"digiBox - ""Prontuário Eletrônico"""
+1209;2016-07-08;Banco Original;OP-1713;procurement;Fábrica de GED e Minutaria
+1210;2016-09-06;SEKRON Alarmes;OP-1722;Rogério Abreu;digiSCAN
+1211;2016-09-09;Papaiz - Assa Abloy;OP-1723;Thais Souza;Digitalização de Desenhos de Engenharia
+1212;2016-09-22;Opentext;OP-1727;Rita de Cássia;Serviços Consultoria
+1213;2016-09-22;Opentext;OP-1728;Rita de Cássia;Serviços Opentext
+1214;2016-10-04;ALMAP-BBDO;OP-1729;Ranieri Munerato;Serviços Opentext
+1215;2016-10-21;Consultor - Ricardo Moreira;OP-1730;Ricardo Moreira;DigiSCAN
+1216;2016-09-22;Opentext;OP-1728;Rita de Cássia;Serviços Opentext - Honda - Fase 2
+1217;2016-10-21;Carvalho, Machado e Timm Advogados;OP-1731;Aline Garcia;DigiSCAN
+1218;2016-12-06;IRB;OP-1732;???;Serviços Opentext
+1219;2017-02-02;GDOC;OP-1733;Antonio Carlos da Silva;Proposta DigiBOX
+1220;2017-02-02;Tate&Lyle;OP-1734;Paulo Tossi;digiSCAN
+1221;2017-02-06;ASONET;OP-1735;Danielle Souza;digiDEPOT
+1222;2017-02-10;Natura;OP-1727;Celso Salvaia;Serviços Consultoria
+1223;2017-03-01;Tate&Lyle;OP-1734;Paulo Tossi;digiBOX
+1224;2017-03-19;Tate&Lyle;OP-1734 / nova 2135;Paulo Tossi;digiDEPOT
+1225;2017-04-25;Opentext TIM ebilling;OP-2209;Rita de Cássia;Serviços Consultoria
+1226;2017-05-11;H2L;OP-2212;Kennedy Terra;Consultoria em ECM
+1227;2017-05-23;Augusta Administradora;OP-2215;Marcos Farina;digiSCAN
+1228;2017-05-23;Augusta Administradora;OP-2215;Marcos Farina;digiDEPOT
+1229;2017-05-23;Augusta Administradora;OP-2215;Marcos Farina;digiBOX
+1230;2017-05-23;Advocacia Waltenberg;OP-2216;Davi Waltenberg / João;Digibox
+1231;2017-05-23;Via VIP;OP-2214;Fabiano;Digibox
+1232;2017-06-20;Contabil Leonardis;OP-2218;Juliano Diniz;Digibox
+1233;2017-07-05;Entelgy;OP-2221;Pedro Braga;Serviços Alfresco
+1234;2017-07-05;MAN-VW;OP-2174;Renan Cardoso Pereira;Digitalização, Guarda e digiBOX
+1235;2017-07-13;MAN-VW;OP-2223;Renan Cardoso Pereira;digiBOX para Armazenamento de Imagens
+1236;2017-07-13;Natura;OP-2224;Tiago Pedroso;Archiving Migração
+1237;2017-08-14;Shopping Vitória;OP-2226;Leonardo Costa;Digitalização de Engenharia
+1238;2017-08-27;MAN-VW;OP-2223;Renan Cardoso Pereira;digiBOX para Armazenamento de Imagens
+1239;2017-10-06;Esquina dos Pneus;OP-2231;Francisco Barreto;digiSCAN
+1240;2017-10-06;Esquina dos Pneus;OP-2231;Francisco Barreto;digiBOX
+1241;2017-10-06;Esquina dos Pneus;OP-2231;Francisco Barreto;digiDEPOT
+1242;2017-10-06;Cão Bernardo;OP-2234;Amanda Mansano;digiSCAN
+1243;2017-10-06;Cão Bernardo;OP-2234;Amanda Mansano;digiBOX
+1244;2017-11-16;MAN Latin America;OP-2237;Renan Cardoso;Digitalização Fichas de Conformidade
+1245;2018-02-20;Terra Investimentos;OP-2245;Roger Rocha;digiBOX
+1246;2018-02-20;Terra Investimentos;OP-2245;Roger Rocha;digiSCAN
+1247;2018-02-20;Illuminati Administração de Condomínios;OP-2247;Gabriela;digiDEPOT
+1248;2018-02-21;AGS Contabilidade;OP-2244;Daniela Pereira;digiBOX
+1249;2018-03-02;Alexandre Coli;OP-2253;Alexandre Coli;digiSCAN
+1250;2018-03-02;Allegra Condomínio;OP-2254;Camila;digiSCAN
+1251;2018-03-06;Natura;OP-2230;Aline Ferreira;Opentext Sustentação 
+1252;2018-03-14;APUS;OP-2255;Wagner de Queiroz;digiDEPOT
+1253;2018-03-14;APUS;OP-2255;Wagner de Queiroz;digiBOX
+1254;2018-03-14;APUS;OP-2255;Wagner de Queiroz;digiSCAN
+1255;2018-03-14;Solixx;OP-2256;Marcel Trindade;digiSCAN
+1256;2018-03-14;Solixx;OP-2256;Marcel Trindade;digiBOX
+1257;2018-03-22;VBR;OP-2144;Daniel Nogueira;Serviços Upgrade Documentum
+1258;2018-04-09;Cinemark;OP-2260;Rafael Mucin / Maurício Copiano;digiBOX
+1259;2018-04-09;Cinemark;OP-2260;Rafael Mucin / Maurício Copiano;digiSCAN
+1260;2018-04-12;Alsa Fort;OP-2261;Dineimar Cabral;digiDEPOT
+1261;2018-04-17;Banco Generoso;OP-2263;Dalnei;Consultoria Estratégica
+1262;2018-04-27;IBCC;OP-1724 (https://bit.ly/2Flxly4);Joceane Apolinario Silva;digiBOX
+1263;2018-04-27;IBCC;OP-1724 (https://bit.ly/2Flxly4);Joceane Apolinario Silva;digiDEPOT
+1264;2018-04-27;IBCC;OP-1724 (https://bit.ly/2Flxly4);Joceane Apolinario Silva;digiSCAN
+1265;2018-04-27;IBCC;OP-1724 (https://bit.ly/2Flxly4);Joceane Apolinario Silva;Gestão de Acervo de Prontuários
+1266;2018-05-02;D'Or Consultoria;OP-2265 (https://bit.ly/2Kv0laz);Bruno Zemantauskas;Sustentação de Aplicações .NET
+1267;2018-05-08;Opentext - Porto Seguro;OP-2266 (https://bit.ly/2wmnI30);Cassia de Souza;Upgrade da Instalação OT 10.5 >> 16
+1268;2018-05-14;Banco ABC Brasil;OP-2268;Rodrigo Simões;digiBOX
+1269;2018-05-14;Banco ABC Brasil;OP-2268;Rodrigo Simões;digiSCAN
+1270;2018-05-14;Banco ABC Brasil;OP-2268;Rodrigo Simões;digiDEPOT
+1271;2018-05-14;Banco ABC Brasil;OP-2268;Rodrigo Simões;Gestão de Acervo de Prontuários
+1272;2018-05-14;Chubb Seguros;OP-2262 (https://bit.ly/2IGYn8K);Saulo Araújo;Serviços Migração Metastorm
+1273;2018-05-23;Tupperware;OP-2269 (https://bit.ly/2x7oD7U);;Desenvolvimento Opentext
+1274;2018-05-24;Carese;OP-2271;Camila Machado;digiSCAN
+1275;2018-06-04;Cinemark;OP-2260;Maurício Copiano;digiBOX - Customização
+1276;2018-06-04;SOMPO;OP-2273;;BPO Central de Digitalização
+1277;2018-06-04;SOMPO;OP-2274;;Serviços de Implantação DCP e xECM
+1278;2018-06-07;Artfix;OP-2276;Michele Alves de Oliveira;digiBOX
+1279;2018-06-11;Tupperware;OP-2278;Paula / Bárbara;Sustentação
+1280;2018-06-14;Chubb Seguros;OP-2277;Saulo Araújo;Upgrade Metastorm
+1281;2018-06-18;Opnetext;OP-2280;Rita de Cássia Souza;Upgrade OCC 10.5 ==> 16
+1282;2018-07-31;Richard;OP-2283;Richard de Klerk;digiSCAN
+1283;2018-07-31;Richard;OP-2283;Richard de Klerk;digiBOX
+1284;2018-08-23;Bagó;OP-2285;Vitória Aiolfi;digiBOX
+1285;2018-09-04;DECA;OP-2286;Monalisa;digiSCAN
+1288;2018-09-26;Vallourec;OP-2287;Thalita Fernandez;digiDEPOT
+1289;2018-09-26;Vallourec;OP-2287;Thalita Fernandez;digiBOX
+1290;2018-09-26;Vallourec;OP-2287;Thalita Fernandez;digiSCAN
+1291;2018-09-26;Vallourec;OP-2287;Thalita Fernandes;Gestão de Acervo de Prontuários
+1292;2018-10-08;CHS Agronegócio;OP-2288;Gabriela Andrade / Melquisedeque;Extração de Dados
+1293;2018-10-18;SONDA;OP-2289;Rogério Chavichiolli;Migração de Ambiente DCTM para AWS
+1294;2018-10-31;Augusta Empreendimentos;OP-2290;Néia Ribeiro;digiDEPOT
+1295;2018-11-12;SABESP;OP-2220;Ricardo Carvalheiro;Serviços Opentext
+1296;2018-11-27;Opentext;OP-2292;Cássio Valente;DASA - ECM-BPM-BRMS
+1297;2018-11-29;SAP;OP_2293;Fabio Rivaroli;Consultoria Archive Center 
+1298;2018-12-02;KHS;OP-2294;Rainer Niermann ;Consultoria ECM Roadmap (Assessment)
+1299;2018-12-06;CAST;OP-2220;Sérgio Gaspar;Serviços Opentext SABESP
+1300;2018-12-14;Opentext;OP-2292;Cássio Valente / Rita de Cássia;DASA - Implantação ECM
+1301;2018-12-14;Opentext;OP-2292;Cássio Valente / Rita de Cássia;DASA - Implantação BPM
+1302;2018-12-14;Opentext;OP-2292;Cássio Valente / Rita de Cássia;DASA - Implantação BRMS
+1303;2018-12-14;Vallourec;OP-2227;Drummond / Daniel;Exportação de Dados e Conteúdo DCTM Engenharia
+1304;2018-12-14;Vallourec;OP-2300;Drummond / Daniel;Exportação de Documentos e Dados da base Documentum - Administrativos
+1305;2018-12-14;Vallourec;OP-2307;Drummond / Daniel;Sustentação Documentum
+1306;2018-12-19;KHS;OP-2297;Rainer Niermann;Automação de Processo de Tratamento de Notas FIscais de Serviço
+1307;2018-12-20;Opentext;OP-2299;Rita de Cássia Souza;Serviços ECM
+1308;2019-01-11;Opentext;OP-2291;Cassia Souza;Prudential - BPM - Processo de Sinistro
+1309;2019-01-23;PizzaHut;OP-2311;Rosana dos Santos;digiSCAN
+1310;2019-01-23;PizzaHut;op-2311;Rosana dos Santos;digiBOX
+1311;2019-01-23;PizzaHut;OP-2311;Rosana dos Santos;digiDEPOT
+1312;2019-01-23;PDCA Engenharia;OP-2312;Vitor Barbosa;digiBOX
+1313;2019-01-28;BNP Paribas Cardif;OP-2313;Estevão Costa;Licenças de Uso OCC
+1314;2019-01-28;BNP Paribas Cardif;OP-2313;Estevão Costa;Serviços de Implantação OCC
+1315;2019-02-07;Honda Lock SP;OP-2315;Carolina Lima;digiBOX
+1316;2019-02-07;Honda Lock SP;OP-2315;Carolina Lima;digiDEPOT
+1317;2019-02-07;Honda Lock SP;OP-2315;Carolina Lima;digiSCAN
+1318;2019-02-08;Nissan;OP-2310;Wallace Silva;digiSCAN - Kanken
+1319;2019-02-08;Nissan;OP-2310;Wallace Silva;digiBOX
+1320;2019-02-13;MAN Latin America;OP-2270;Marcelo Marciano da SIlva;Conversão das Fichas do FileMagic
+1321;2019-02-13;MAN Latin America;OP-2306;Fúlvio Ferreira Martins;digiSCAN - Digitalização VDA's 2
+1322;2019-02-13;Man Latin America;OP-2306;Fúlvio Ferreira Martins;digiBOX
+1323;2019-02-18;Opentext;OP-2317;Cassio Valente;Serviços Implementação SDDJ
+1324;2019-02-18;TAKELOG;OP-2318;Moara Staeblein;digiSCAN
+1325;2019-02-18;TAKELOG;OP-2318;Moara Staeblein;digiDEPOT
+1326;2019-02-18;TAKELOG;OP-2318;Moara Staeblein;digiBOX
+1327;2019-02-19;ALLM S.A.;OP-2319;Abimael Ribeiro;digiSCAN
+1328;2019-02-19;ALLM S.A.;OP-2319;Abimael Ribeiro;digiBOX
+1329;2019-02-19;ALLM S.A.;OP-2319;Abimael Ribeiro;digiDEPOT
+1330;2019-02-19;Shpaisman;OP-2320;Marcia;digiSCAN
+1331;2019-02-19;Shpaisman;OP-2320;Marcia;digiBOX
+1332;2019-02-19;Shpaisman;OP-2320;Marcia;digiDEPOT
+1333;2019-02-22;Greenbier Maxion;OP-2321;Valteir Araújo;digiSCAN + Impressão e Montagem
+1334;2019-02-22;Greenbier Maxion;OP-2321;Valteir Araújo;digiBOX
+1335;2019-02-28;Hine do Brasil;OP-2322;Holana Bernardini;digiDEPOT
+1336;2019-03-01;Zacarella Advogados;OP-2323;Milena Alves Gomes;digiSCAN Pastas Casos
+1337;2019-03-08;OT-3 Corações;OP-2324;Rodrigo Constantino;ECM
+1338;2019-03-15;Great Food;OP-2325;Camila Leite;digiSCAN
+1339;2019-03-15;Great Food;OP-2325;Camila Leite;digiBOX
+1340;2019-03-15;Great Food;OP-2325;Camila Leite;digiDEPOT
+1341;2019-03-29;MAN Latin America;OP-2326;Kim Simofusa Luppi;Revista Mundo VolksBUS
+1342;2019-04-01;Opentext;OP-2299;Rodrigo Croce Constantino;Sustentação TIM
+1343;2019-04-05;Honda;OP-2314;William Boy;Consultoria Roadmap Study
+1344;2019-04-11;Opentext;OP-2327;Rodrigo Constantino;xECM na Área Jurídica da Solvi
+1345;2019-04-23;Opentext;OP-2328;Rodrigo Constantino;Fast Track xECM
+1346;2019-04-30;Irohin;OP-2329;Elisabete;digiBOX
+1347;2019-05-09;Mendes Holler;OP-2331;Gláucia Rossetti;digiSCAN
+1348;2019-05-09;Mendes Holler;OP-2331;Gláucia Rossetti;digiBOX
+1349;2019-07-07;JTP Transportes;OP-2333;Marco Nunes;digiBOX
+1350;2019-07-10;Accor;OP-2342;Frederico Souza;Implantação OT - Recebimento de NFs
+1351;2019-07-23;Accor;OP-2342;Frederico Souza;Sustentação Opentext
+1352;2019-08-05;MRS Logística;OP-2332;Márcio Maciel;Serviços de Implantação - Formulário de Manutenção
+1353;2019-08-05;MRS;OP-2332;Márcio Maciel;Serviços de Implantação Forms MRS
+1354;2019-08-05;Opentext;OP-2343;Rodrigo Constantino;Serviços de Implantação Gestão de Normas VLI
+1355;2019-07-19;VERT;OP-2220;Leandro Marques;Serviços xECM SABESP Edital 226/19
+1356;2019-09-05;Bunge;OP-2344;Ricardo Bonadio;Serviços de Implantação OT Aplicação de Normas
+1357;2019-09-05;COMGÁS;OP-2345;Sérgio Sorrentino - OT;Serviços de Implantação D2 - Regulatório
+1358;2019-09-10;CSN-Montreal;OP-2346;Pedro Canalini;Serviços de Implantação xECM
+1359;2019-09-20;MAN;OP-2308;Mildred / Kim;Digitalização e Armazenamento
+1360;2019-10-21;SAMSUNG;OP-2348;Antonio Railson da Silva;digiSCAN
+1361;2019-10-21;SAMSUNG;OP-2348;Antonio Railson da Silva;digiBOX
+1362;2019-10-21;SAMSUNG;OP-2348;Antonio Railson da Silva;digiDEPOT
+1363;2019-11-22;MAN;OP-2349;Wander Gartner;digiBOX para Acervo Histórico
+1364;2019-11-27;MÁRCIA;OP-2250;Camila Freitas;digiBOX
+1365;2020-03-25;Sonda;OP-2353;Kleberth;Serviços de Upgrade Documentum
+1366;2020-04-06;BRATAX ADVOGADOS ASSOCIADOS;OP-2355;Graziela Silva;Digi-DEPOT
+1367;2020-04-08;AERIS ENERGY;OP-2354;KATHARINA ;Digibox
+1368;2020-04-08;AERIS ENERGY;OP-2354;Katharima Santana;DigiSCAN
+1369;2020-05-21;Oxiteno;OP-2359;Leandro Monteiro;Serviços de Sustentação Documentum
+1370;2020-06-09;Vogel Telecom;2357;Carolina Couto;Digi-Scan
+1371;2020-06-09;Vogel Telecom;2357;Carolina Couto;DigiBOX
+1372;2020-06-09;Vogel Telecom;2357;Carolina Couto;Digi-DEPOT
+1373;2020-06-24;MegaWorks;OP-2360;Fabio Magalhães;Serviços de Melhorias xECM Itaipu
+1374;2020-06-30;MMR Sistemas;OP-2361;Roberney Pereira;Digi-Scan
+1375;2020-07-14;SAMPLEMED;OP-2363;Rafael Sousa;DigiSCAN
+1376;2020-07-14;SAMPLEMED;OP-2363;Rafael Sousa;DigiBOX
+1377;2020-07-14;SAMPLEMED;OP-2363;Rafael Sousa;DigiDEPOT
+1378;2020-07-15;Oxiteno;OP-2365;Leandro Monteiro;Exportação de Dados e Documentos Documentum
+1379;2020-07-16;AEGEA Saneamento CCA;OP-2366;Claudineide Lins;DigiSCAN
+1380;2020-07-16;AEGEA Saneamento CCA;OP-2366;Claudineide Lins;DigiBOX
+1381;2020-07-16;AEGEA Saneamento CCA;OP-2366;Claudineide Lins;Digi-DEPOT
+1382;2020-07-20;CHUBB SEGUROS;OP-2362;ADRIANA MATOS;Serviços
+1383;2020-07-21;SOUL TRADE;OP-2367;ADILSON SARTORI;DigiSCAN
+1384;2020-07-21;SOUL TRADE;OP-2367;ADILSON SARTORI;DigiBOX
+1385;2020-08-04;SESI/SENAI;OP-2368;JULIO CÉSAR;DigiSCAN
+1386;2020-08-04;SESI/SENAI;OP-2368;JULIO CESAR;DigiBOX
+1387;2020-09-01;COLÉGIO IED;OP-2373;GABRIEL SANTOS;Digi-Scan
+1388;2020-09-01;COLÉGIO IED;OP-2373;GABRIEL SANTOS;DigiBOX
+1389;2020-09-04;GRUPO PEGORARO;OP-2374;MELISSA;DigiSCAN
+1390;2020-09-04;GRUPO PEGORARO;OP-2374;MELISSA;DigiBOX
+1391;2020-09-04;GRUPO PEGORARO;OP-2374;MELISSA;Digi-DEPOT
+1392;2020-09-04;LIMA CONSULTORIA;OP-2375;ANA LETICIA;DigiSCAN
+1393;2020-09-04;LIMA CONSULTORIA;OP-2375;ANA LETICIA;DigiBOX
+1394;2020-09-14;FUNDAÇÃO DORINA NOWILL;OP-2376;IVAN JAZZAR;DigiSCAN
+1395;2020-09-14;FUNDAÇÃO DORINA NOWILL;OP-2376;IVAN JAZZAR;DigiBOX
+1396;2020-09-14;FUNDAÇÃO DORINA NOWILL;OP-2376;IVAN JAZZAR;Digi-DEPOT
+1397;2020-09-18;DAIICHI SANKYO BRASIL;OP-2377;EMILE MARIANO;DigiSCAN
+1398;2020-09-18;DAIICHI SANKYO BRASIL;OP-2377;EMILE MARIANO;DigiBOX
+1400;2020-09-28;SANTEL IMOVEIS;OP-2380;LUIZ GUSTAVO;DigiSCAN
+1401;2020-10-08;CBL - Companhia Brasileira de Litio;OP-2372;Luana Rodrigues;DigiSCAN
+1402;2020-10-08;CBL - Companhia Brasileira de Litio;OP-2372;Luana Rodrigues;DigiBOX
+1403;2020-10-08;CBL - Companhia Brasileira de Litio;OP-2372;Luana Rodrigues;Digi-DEPOT
+1404;2020-10-19;CAMMAROTA E ABREU ADV;OP-2382;GISELA BARROS;DigiSCAN
+1405;2020-10-19;CAMMAROTA E ABREU ADV;OP-2382;GISELA BARROS;DigiBOX
+1406;2020-10-19;CAMMAROTA E ABREU ADV;OP-2382;GISELA BARROS;DigiDEPOT
+1407;2020-10-21;HEM - HOSPITAL ESPIRITA DE MARILIA;OP-2381;NATÁLIA NASCIMENTO;DigiSCAN
+1408;2020-10-21;HEM - HOSPITAL ESPIRITA DE MARILIA;OP-2381;NATÁLIA NASCIMENTO;DigiBOX
+1409;2020-10-21;HEM - HOSPITAL ESPIRITA DE MARILIA;OP-2381;NATÁLIA NASCIMENTO;DigiDEPOT
+1410;2020-10-21;CARESE ;OP-2383;CAMILA MACHADO;DigiSCAN
+1411;2020-11-09;INTELECOM LOGISTICA;OP-2384;ELLEN SILVA;DigiBOX
+1412;2020-11-18;TOZZINI FREIRE ADVOGADOS;OP-2385;MARISOL KIPPER;DigiSCAN
+1413;2020-11-18;TOZZINI FREIRE ADVOGADOS;OP-2385;MARISOL KIPPER;DigiBOX
+1414;2020-12-15;Chubb Brasil;OP-2387;Mario Juliatto Jr.;Serviços Suporte Avulso
+1415;2020-12-30;DHL;OP-2389;VICTOR FALCHETI;DigiSCAN
+1416;2020-12-30;HDL;OP-2389;VICTOR FALCHETI;DigiBOX
+1417;2021-01-04;BIOIMPORTS  LTDA;OP-2390;Jackeine Conrado;DigiDEPOT
+1418;2021-01-07;CONFIDECOR SEGUROS;OP-2391;Pamela Bueno;DigiSCAN
+1419;2021-01-07;SCHIWARTCHE ADVOGADOS;OP-2392;Nathália Nascimento;DigiSCAN
+1420;2021-01-21;LG ELETRONICS DO BRASIL;OP-2399;Michele Pereira dos Santos;DigiSCAN
+1421;2021-01-21;LG ELETRONICS DO BRASIL;OP-2399;Michele Pereira dos Santos;DigiBOX
+1422;2021-01-22;FIP  - FACULDADES INTEGRADAS POTENCIAL;OP-2396;Neide Souza;DigiSCAN
+1423;2021-01-27;Particular;OP-2400;Pierre Matalani;DigiScan
+1424;2021-01-27;BELTI COM. PROD. MEDICOS;OP-2401;Michelle Oliveira;DigiScan
+1425;2021-01-28;Oxiteno;OP-2402;Leandro Monteiro;Serviços Instalação Documentum
+1426;2021-01-28;LG Eletronics ;OP-2400;Michelle Santos;COA-Serviços de RH
+1427;2021-01-29;ADVOCACIA CAMPELINO;OP-2403;Mônica Campelino;DigiDEPOT
+1428;2021-01-29;LT SEGUROS;OP-2404;Fernanda Matos;DigiScan
+1429;2021-01-29;LT SEGUROS;OP-2404;Fernanda Matos;DigiDEPOT
+1430;2021-02-01;Marposs Aparalhos Eletronicos de Medição;OP-2405;Márcia Sartori;DigiDEPOT
+1431;2021-02-18;VALERIA ROSSATTI ADVOGADOS;OP-2408;Váleria Rossatti;DigiSCAN
+1432;2021-02-18;VALERIA ROSSATTI ADVOGADOS;OP-2408;Váleria Rossatti;DigiBOX
+1433;2021-02-18;Liquigás;OP-2409;Gilberto Batista Castilho;Sustentação Sistema de Medição Individual
+1434;2021-02-18;OCQ - OSVALDO CRUZ QUIMICA;OP-2410;Bruna Alessandra;DigiScan
+1435;2021-02-18;OCQ - OSVALDO CRUZ QUIMICA;OP-2410;Bruna Alessandra;DigiBOX
+1436;2021-02-23;OCQ - OSVALDO CRUZ QUIMICA;OP-2410;Bruna Alessandra ;DigiDEPOT
+1437;2021-02-23;Condomínio Alfredo Volpi;OP_2411;Katia Honorato;DigiSCAN
+1438;2021-02-23;Condomínio Alfredo Volpi;OP-2411;Katia Honorato;DigiBOX
+1439;2021-02-23;Condomínio Alfredo Volpi;OP-2411';Katia Honorato;DigiDEPOT
+1440;2021-02-23;CALVO ATACADISTA;op-2412;Maria Manuela;DigiSCAN
+1441;2021-02-23;CALVO ATACADISTA;OP-2412;Maria Manuela;DigiBOX
+1442;2021-03-02;MSG TRANSMISSÕES;OP-2406;Nayara Araújo;DigiBOX
+1443;2021-03-03;DASA ;OP-2394;Ana Carolina Cruz;Serviço de captura de informações
+1444;2021-03-08;SUMITONO CHEMICAL;OP-2416;Daniela Silva;DigiSCAN
+1445;2021-03-08;SUMITONO CHEMICAL;op-2416;Daniela Silva;DigiBOX
+1446;2021-03-08;Suprema Segurança Pratimonial;OP-2417;Valéria Freschi;DigiDEPOT
+1447;2021-03-11;SINCLAIR PHARMA;OP-2418;Jéssica Guedes;DigiDEPOT
+1448;2021-03-17;Escritorio Advocacia - BH;OP-2419;Pedro Paulo;DigiBOX
+1449;2021-03-18;CELSO MASCHIO ADVOGADOS;OP-2420;Celso Maschio Rodrigues;DigiBOX
+1450;2021-03-25;Farma Conde;OP-2421;Elizabeth Stetner;DigiBOX
+1451;2021-03-30;Banco Mercedes;OP-2423;Vinicius Soares;Sustentação Opentext
+1452;2021-04-05;TUBERFIL;OP-2378;VAN DER LAAM OLIVEIRA;DigiSCAN
+1453;2021-04-05;TUBERFIL;OP-2378;VAN DER LAAM OLIVEIRA;DigiBOX
+1454;2021-04-06;AB BRASIL;OP-2424;Maiara Magalhães;DigiSCAN
+1455;2021-04-06;AB BRASIL;OP-2424;Maiara Magalhães;DigiBOX
+1456;2021-04-06;Clark Solutions;OP-2425;Nelson Clark;digiBOX
+1457;2021-04-06;Clark Solutions;OP-2425;Nelson Clark;digiDEPOT
+1458;2021-04-09;MK ADVOGADOS;OP-2427;PAULA MENDONÇA;DigiSCAN
+1459;2021-04-09;MK ADVOGADOS;OP-2427;PAULA MENDONÇA;DigiBOX
+1460;2021-04-09;MK ADVOGADOS;OP-2427;PAULA MENDONÇA;DigiDEPOT
+1461;2021-04-12;COLGATE;OP-2428;Michele Massuda;DigiSCAN
+1462;2021-04-12;COLGATE;OP-2428;Michele Massuda;DigiBOX
+1463;2021-04-12;COLGATE;OP-2428;Michele Massuda;DigiDEPOT
+1464;2021-04-16;INDES - INSTITUTO DESENVOLVIMENTO SUSTENTÁVEL;OP-2429;Gerson Espirito Santo;DigiDEPOT
+1465;2021-04-27;SUCOS CAMPI;OP-2431;Diego Messias;DigiSCAN
+1466;2021-04-27;SUCOS CAMPI;OP-2431;Diego Messias;DigiBOX
+1467;2021-04-27;SUCOS CAMPI;OP-2431;Diego Messias;DigiDEPOT
+1468;2021-04-29;BARRA AGROPECUARIA;OP-2433;ODAIR GARCIA MONEO;Digi-Scan
+1469;2021-04-29;BARRA AGROPECUARIA;OP-2433;ODAIR GARCIA MONEO;DigiDEPOT
+1470;2021-04-30;OKE STUDIO;OP-2432;AMANDA AYALA;Digi-Scan
+1471;2021-04-30;OKE STUDIO;OP-2432;AMANDA AYALA;Digi-DEPOT
+1472;2021-05-06;FUNDAÇÃO ASSEFAZ;OP-2434;Melquizedeque de Souza;DigiBOX
+1473;2021-05-11;Laboratorios Vital Brasil;OP-2435;Aline Sgobi;DigiDEPOT
+1474;2021-05-17;VALFILM ;OP-2437;Izabela Seixas;DigiBOX
+1475;2021-05-24;XILOLITE S/A;OP-2436;Leonardo Sampaio Cairo;DigiSCAN
+1476;2021-05-24;XILOLITE S/A;OP-2436;Leonardo Sampaio Cairo;DigiBOX
+1477;2021-05-24;WPP;OP-2438;Wendy Pires;digiSCAN
+1478;2021-05-24;WPP;op-2438;Wendy Pires;digiBOX
+1479;2021-05-24;WPP;OP-2438;Wendy Pires;digiDEPOT
+1480;2021-06-03;Silicone Center;OP-2439;Margareth Kayo;DigiDEPOT
+1481;2021-06-28;SUPERMERCADOS BAHIA;OP-2440;Elisangela de Souza;DigiSCAN
+1482;2021-06-28;SUPERMERCADOS BAHIA;OP-2440;Elisangela de Souza;DigiBOX
+1483;2021-07-07;WELL CLINIC;OP-2441;Jonatã;digiBOX
+1484;2021-07-07;WELL CLINIC;OP-2441;Jonatã;digiDEPOT
+1485;2021-07-07;WELL CLINIC;OP-2441;Jonatã;digiSCAN
+1486;2021-07-26;FDSBC;OP-2443;ANA LIGIA  ALVES PACHECO;DigiSCAN
+1487;2021-08-12;ESCALA 7;OP-2445;Cristiane Marcon Alves;DigiDEPOT
+1488;2021-08-17;SIL LUBRIFICAÇÃO;OP-2444;RENATO FERNANDES;DigiBOX
+1489;2021-08-25;IVOIRE DESIGN;OP-2446;RODRIGO FERRO;DigiDEPOT
+1490;2021-08-25;PORTOSIM - OPERATER;OP-2447;Patricia Florencia;DigiSCAN
+1491;02/09/2021;TRATHO Metal Química;OP-2448;Dawson Soares;digiSCAN
+1492;02/09/2021;TRATHO Metal Química;OP-2448;Dawson Soares;digiBOX
+1493;10/09/2021; Laborpack - Embalagens Plásticas;OP-2450;Ianna Freitas;digiSCAN
+1494;10/09/2021; Laborpack - Embalagens Plásticas;OP-2450;Ianna Freitas;digiBOX
+1495;16/09/2021;Mercúrio Correias;OP-2449;Valdir Pereira;digiSCAN
+1496;16/09/2021;Mercúrio Correias;OP-2449;Valdir Pereira;digiBOX
+1497;28/09/2021;Lavoratori Solução em Gestão Ocupacional Ltda;OP-2451;Eliane;digiDEPOT
+1498;13/10/2021;Pandata;OP-2452;Adriana Oliveira;digiSCAN
+1499;13/10/2021;Pandata;OP-2452;Adriana Oliveira;digiBOX
+1500;15/10/2021;Vectra Work Ind. de Equip. EPI´s;OP-2454;Robson Mazza;digiBOX
+1501;20/10/2021;TELEINFO Soluções;OP-2455;Leonardo Costa;digiDEPOT
+1502;22/10/2021;UNIFEB - Fundação Educaional de Barretos;OP-2456;Gulherme Diniz;digiBOX
+1503;22/10/2021; Trabuca JK Bar;OP-2457;Maria Cristina;digiSCAN
+1504;25/10/2021;VALEMOBI CONSULTORIA EMPRESARIAL SA; OP-2458;Clécia Arruada;digiSCAN
+1505;04/11/2021;Instituto Toniolo; OP-2459;Tatiana Bonfim;digiSCAN
+1506;18/11/2021;Serrana Engenharia Ltda;OP-2463;Roberto Tissott;digiBOX
